@@ -3,6 +3,7 @@
   <publications>
     <publication id="c1ac-4d57-086a-f374" name="Core Rules"/>
     <publication id="0084-8cf6-b5f0-fa82" name="Tyranid Index Cards"/>
+    <publication id="5602-a76d-2811-707d" name="Index Cards"/>
   </publications>
   <costTypes>
     <costType id="6dab-1e38-1f37-5d19" name="Points" defaultCostLimit="-1.0" hidden="false"/>
@@ -53,6 +54,7 @@
     <categoryEntry id="2bc4-8c19-bc7b-a70d" name="Character" hidden="false"/>
     <categoryEntry id="4c72-75fb-cc79-7b8d" name="Dedicated Transport" hidden="false"/>
     <categoryEntry id="541e-c6f4-5c40-45ec" name="Other" hidden="false"/>
+    <categoryEntry id="56a8-7143-031e-072a" name="Fortification" hidden="false"/>
   </categoryEntries>
   <forceEntries>
     <forceEntry id="9f38-42b9-6626-6739" name="Index Detachment" hidden="false">
