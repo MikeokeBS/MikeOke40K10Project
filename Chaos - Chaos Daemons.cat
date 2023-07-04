@@ -291,6 +291,11 @@
         <categoryLink id="ead9-6515-db58-2b91" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
       </categoryLinks>
     </entryLink>
+    <entryLink id="830e-6a70-7c80-9e10" name="Battle Size" hidden="false" collective="false" import="true" targetId="9f26-de51-fad4-5cec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="af03-e007-3cb3-335d" name="New CategoryLink" hidden="false" targetId="19b8-16e6-407b-cc4d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
   </entryLinks>
   <sharedSelectionEntries>
     <selectionEntry id="9502-cc5d-32c5-0000" name="Beasts of Nurgle" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
