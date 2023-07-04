@@ -100,6 +100,9 @@ other weapons</characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="26ec-d771-45f4-649a" name="Lone Operative" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -113,6 +116,9 @@ the attacking model is within 12&quot;</characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="3c8e-a267-5ce3-51ef" name="Stealth" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -125,6 +131,9 @@ attack’s Hit roll</characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="95f5-ccd9-c5ab-adad" name="Feel No Pain" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -137,6 +146,9 @@ attack’s Hit roll</characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="88df-33b7-23c8-9dd3" name="Deadly Demise 1" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -160,6 +172,9 @@ each of them, inflicting mortal wounds accordingly. </characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="d360-2b8a-2882-ae42" name="Deadly Demise D3" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -183,6 +198,9 @@ each of them, inflicting mortal wounds accordingly. </characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="22b4-eaee-7b82-9dad" name="Deadly Demise D6" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -206,6 +224,9 @@ each of them, inflicting mortal wounds accordingly. </characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="1f82-3a8e-d674-299f" name="Assault" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -223,6 +244,9 @@ models are equipped with.</characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="3d8f-6a1d-8325-1352" name="Rapid Fire" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -243,6 +267,9 @@ make two Hit rolls</characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="920e-4605-1303-4d5d" name="Ignores Cover" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -257,6 +284,9 @@ have the Benefit of Cover against that attack (pg 44)</characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="611c-cdb7-75ff-807b" name="Twin Linked" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -271,6 +301,9 @@ attack’s Wound roll</characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="e810-b6c7-8e11-dbed" name="Pistol" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -297,6 +330,9 @@ selecting targets</characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="279d-5d5d-fbf7-7438" name="Torrent" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -311,6 +347,9 @@ the target.</characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="160a-9e8d-28f4-4943" name="Lethal Hits" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -325,6 +364,9 @@ wounds the target</characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="aee9-3da8-8092-6b13" name="Lance" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -338,6 +380,9 @@ this turn, add 1 to that attack’s Wound roll.</characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="cb19-e1a0-64bd-9aaa" name="Indirect Fire" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -370,6 +415,9 @@ Benefit of Cover against that attack</characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="88fe-6bfb-a5b6-32cf" name="Precision" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -389,6 +437,9 @@ attack sequence</characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="5234-670b-2eb1-1ab6" name="Blast" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -415,6 +466,9 @@ would be made against that unit</characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="392d-8d52-271f-02d2" name="Melta" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -434,6 +488,9 @@ damage on the target, it inflicts D6+2 damage</characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="7e80-f84f-fff8-3259" name="Heavy" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -450,6 +507,9 @@ Hit roll</characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="8ad4-591c-c387-ba2a" name="Hazardous" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -484,6 +544,9 @@ Vehicles, one of those models is destroyed.</characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="8fb2-b99d-8582-f826" name="Devastating Wounds" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -506,6 +569,9 @@ target suffers 2 mortal wounds.</characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="4eab-a919-0082-f43e" name="Sustained Hits" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -527,6 +593,9 @@ from the successful Hit roll of 6, and 2 from the
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="3b8d-6394-4517-46ab" name="Extra Hits" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -546,6 +615,9 @@ other rules.</characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="4bab-7735-de0e-e522" name="Anti" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -567,6 +639,9 @@ Psyker unit on an unmodified Wound roll of 2+.</characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="496a-a784-f4a7-6af8" name="Fights First" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -580,6 +655,9 @@ this ability.</characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="7087-526d-ced7-2e87" name="Deep Strike" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -599,6 +677,9 @@ away from all enemy models.</characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="6ce2-6731-78c6-bc44" name="Scouts" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -625,6 +706,9 @@ can make a Normal move with that unit of up to 6&quot;.</characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="92b4-13bb-8a31-1e5b" name="Infiltrators" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -640,6 +724,9 @@ and all enemy models</characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="4c7b-a91c-bf5f-adbf" name="Leader" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -679,6 +766,9 @@ Character models in that unit</characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="480a-dbfb-8cc4-0806" name="Hover" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
@@ -705,6 +795,42 @@ you wish.</characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9f26-de51-fad4-5cec" name="Battle Size" hidden="false" collective="false" import="true" type="unit">
+      <entryLinks>
+        <entryLink id="e8de-9839-8804-1972" name="Battle Size" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" targetId="3581-e5f9-1a81-8d25" type="selectionEntryGroup">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="961d-ef1f-e60c-f757" type="max"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
   </sharedSelectionEntries>
+  <sharedSelectionEntryGroups>
+    <selectionEntryGroup id="3581-e5f9-1a81-8d25" name="Battle Size" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true">
+      <selectionEntries>
+        <selectionEntry id="7b78-5482-97a3-e537" name="Incursion (1000 Pts)" hidden="false" collective="false" import="true" type="upgrade">
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="aee6-53a7-3691-0893" name="Strike Force (2000 Pts)" hidden="false" collective="false" import="true" type="upgrade">
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="7a6a-dab5-4953-2640" name="Onslaught (3000 Pts)" hidden="false" collective="false" import="true" type="upgrade">
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntryGroup>
+  </sharedSelectionEntryGroups>
 </gameSystem>
