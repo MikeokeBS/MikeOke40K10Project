@@ -274,18 +274,6 @@
     </entryLink>
   </entryLinks>
   <sharedSelectionEntries>
-    <selectionEntry id="e53d-f8d9-00cd-a1a4" name="Slaves to Darkness" hidden="false" collective="false" import="true" type="upgrade">
-      <entryLinks>
-        <entryLink id="cb32-0fc0-cbda-2a9f" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e53d-f8d9-00cd-a1a4" type="selectionEntry">
-          <constraints>
-            <constraint field="selections" scope="roster" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="fba1-eb9c-3c2e-61a9" type="max"/>
-          </constraints>
-        </entryLink>
-      </entryLinks>
-      <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
-      </costs>
-    </selectionEntry>
     <selectionEntry id="7fcf-d5aa-1996-1cab" name="Abaddon the Despoiler" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7e29-2e38-fbaa-80bd" type="max"/>
@@ -338,7 +326,7 @@
     <selectionEntry id="919b-e859-8a7f-5ab3" name="Chaos Lord" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
         <entryLink id="dcad-a2c5-33c0-210f" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
-        <entryLink id="7911-eb7a-aa74-1ca1" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e53d-f8d9-00cd-a1a4" type="selectionEntry"/>
+        <entryLink id="7911-eb7a-aa74-1ca1" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e4b6-cbbb-a4a0-1b68" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
@@ -347,7 +335,7 @@
     <selectionEntry id="6b81-9bc3-91a7-6a64" name="Chaos Lord in Terminator Armour" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
         <entryLink id="dd97-9ce6-5dbe-be09" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
-        <entryLink id="d9af-b59e-f2f3-733e" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e53d-f8d9-00cd-a1a4" type="selectionEntry"/>
+        <entryLink id="4750-109d-879d-7454" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e4b6-cbbb-a4a0-1b68" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="100.0"/>
@@ -458,7 +446,7 @@
     <selectionEntry id="b9f2-3660-9ada-26f3" name="Dark Apostle" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
         <entryLink id="adb7-2185-74a9-ed9f" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
-        <entryLink id="e3c7-6c54-c4ac-9d5d" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e53d-f8d9-00cd-a1a4" type="selectionEntry"/>
+        <entryLink id="0d99-0cd3-4eca-7803" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e4b6-cbbb-a4a0-1b68" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
@@ -467,7 +455,7 @@
     <selectionEntry id="0960-adec-db34-d199" name="Dark Commune" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
         <entryLink id="3b36-9c57-7b37-8754" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
-        <entryLink id="661b-5ec0-b4b4-e07c" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e53d-f8d9-00cd-a1a4" type="selectionEntry"/>
+        <entryLink id="9d1a-18dc-a0df-21ee" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e4b6-cbbb-a4a0-1b68" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="55.0"/>
@@ -484,7 +472,7 @@
     <selectionEntry id="f451-4b46-e5ab-c550" name="Exalted Champion" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
         <entryLink id="ff3e-f92d-6e22-c1ef" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
-        <entryLink id="3b7f-91f5-274a-d2d2" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e53d-f8d9-00cd-a1a4" type="selectionEntry"/>
+        <entryLink id="d435-a601-669c-a7b8" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e4b6-cbbb-a4a0-1b68" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
@@ -549,7 +537,7 @@
     <selectionEntry id="e1c2-1726-22d9-c5a4" name="Heretic Astartes Daemon Prince" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
         <entryLink id="aa05-6099-da14-b421" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
-        <entryLink id="0f60-79df-9113-dc24" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e53d-f8d9-00cd-a1a4" type="selectionEntry"/>
+        <entryLink id="c730-b590-8a44-82d8" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e4b6-cbbb-a4a0-1b68" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="180.0"/>
@@ -558,7 +546,7 @@
     <selectionEntry id="d536-9193-ac18-de58" name="Heretic Astartes Daemon Prince with Wings" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
         <entryLink id="31ed-6cc7-8dfb-1ab7" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
-        <entryLink id="635f-23c9-76cb-12e9" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e53d-f8d9-00cd-a1a4" type="selectionEntry"/>
+        <entryLink id="8a34-b6e2-d4d7-ad74" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e4b6-cbbb-a4a0-1b68" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="195.0"/>
@@ -598,7 +586,7 @@
     <selectionEntry id="d297-64ce-7604-c470" name="Lord Discordant on Helstalker" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
         <entryLink id="8cb9-8f42-a797-ad61" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
-        <entryLink id="db4d-fc2c-896b-dfb2" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e53d-f8d9-00cd-a1a4" type="selectionEntry"/>
+        <entryLink id="132a-3b60-cb69-1785" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e4b6-cbbb-a4a0-1b68" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="220.0"/>
@@ -615,7 +603,7 @@
     <selectionEntry id="6ac0-6cec-e0d4-a383" name="Master of Executions" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
         <entryLink id="9a3b-e3e4-479a-855b" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
-        <entryLink id="8d58-8832-9298-3ff9" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e53d-f8d9-00cd-a1a4" type="selectionEntry"/>
+        <entryLink id="ae40-1f52-be48-2b3f" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e4b6-cbbb-a4a0-1b68" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
@@ -624,7 +612,7 @@
     <selectionEntry id="3842-7048-5e97-ceaa" name="Master of Possession" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
         <entryLink id="e48b-edf6-4780-88d9" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
-        <entryLink id="dd95-d5dd-c307-dacd" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e53d-f8d9-00cd-a1a4" type="selectionEntry"/>
+        <entryLink id="fa25-6da4-0200-0585" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e4b6-cbbb-a4a0-1b68" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
@@ -715,7 +703,7 @@
     <selectionEntry id="fb7f-20eb-a4b5-cced" name="Sorcerer" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
         <entryLink id="ebdd-fd8d-8f1d-6a9b" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
-        <entryLink id="0e6a-cec0-fd6e-f378" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e53d-f8d9-00cd-a1a4" type="selectionEntry"/>
+        <entryLink id="c3ec-484c-351b-2e1c" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e4b6-cbbb-a4a0-1b68" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="60.0"/>
@@ -724,7 +712,7 @@
     <selectionEntry id="cbeb-5243-d96b-538e" name="Sorcerer in Terminator Armour" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
         <entryLink id="835b-daa8-7ced-73af" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
-        <entryLink id="36f5-b843-71fd-487c" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e53d-f8d9-00cd-a1a4" type="selectionEntry"/>
+        <entryLink id="df92-7df0-f003-a2c2" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e4b6-cbbb-a4a0-1b68" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="90.0"/>
@@ -733,7 +721,7 @@
     <selectionEntry id="a4d4-1f5b-c7b3-2641" name="Traitor Enforcer" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
         <entryLink id="cb93-33f5-8177-e915" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
-        <entryLink id="4dac-ecac-f339-163b" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e53d-f8d9-00cd-a1a4" type="selectionEntry"/>
+        <entryLink id="16ad-7333-01af-5620" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e4b6-cbbb-a4a0-1b68" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="65.0"/>
@@ -784,7 +772,7 @@
     <selectionEntry id="21eb-2c21-29c7-b80b" name="Warpsmith" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
         <entryLink id="7c52-0a6b-8065-f486" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
-        <entryLink id="bc62-98d4-eb1f-54e5" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e53d-f8d9-00cd-a1a4" type="selectionEntry"/>
+        <entryLink id="c881-8ede-843d-4c04" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e4b6-cbbb-a4a0-1b68" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
@@ -831,14 +819,6 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
-      <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
-      </costs>
-    </selectionEntry>
-    <selectionEntry id="92b6-cbfc-8417-034b" name="Mark of Chaos" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
-      <entryLinks>
-        <entryLink id="9c52-f2c7-8db6-7ca4" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
-      </entryLinks>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
       </costs>
