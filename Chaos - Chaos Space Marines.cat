@@ -562,7 +562,7 @@
     </selectionEntry>
     <selectionEntry id="a176-3c5c-29d0-a604" name="Khorne Lord of Skulls" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="420.0"/>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="480.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="1496-27ad-fdf7-91f4" name="Legionaries" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">

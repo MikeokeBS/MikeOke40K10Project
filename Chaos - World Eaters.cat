@@ -211,6 +211,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="880c-927b-3873-4a3a" name="Jakhals" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
       <selectionEntries>
@@ -223,6 +226,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="b245-ba73-9812-ec39" name="Exalted Eightbound" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
       <selectionEntries>
@@ -235,6 +241,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="101d-7fe0-4055-aec7" name="Khorne Berzerkers" hidden="false" collective="false" import="true" type="unit">
       <selectionEntries>
@@ -247,10 +256,13 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="ca08-e9e0-4c38-045b" name="Khorne Lord of Skulls" hidden="false" collective="false" import="true" type="model">
       <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="420.0"/>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="525.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="4803-a4ee-c9c7-4f8d" name="Kharn the Betrayer" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
@@ -296,6 +308,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
   </sharedSelectionEntries>
   <sharedSelectionEntryGroups>

@@ -312,7 +312,7 @@
             <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1e45-40d3-b2c5-d3b6" type="max"/>
           </constraints>
           <costs>
-            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="40.0"/>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="65.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
@@ -392,7 +392,7 @@
     </selectionEntry>
     <selectionEntry id="a213-dada-1994-d499" name="Harpy" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
       <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="170.0"/>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="230.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="34f9-6cd4-7d32-9ab3" name="Haruspex" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">

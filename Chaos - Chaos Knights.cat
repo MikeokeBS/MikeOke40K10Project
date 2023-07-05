@@ -121,7 +121,7 @@
         <entryLink id="89c6-d8f9-5050-3596" name="Traitoris Lance" hidden="false" collective="false" import="true" targetId="0f0f-ea3d-a360-9097" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="395.0"/>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="455.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="f1e5-7126-499d-0f4c" name="Knight Desecrator" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
@@ -129,7 +129,7 @@
         <entryLink id="8414-3364-14ad-510f" name="Traitoris Lance" hidden="false" collective="false" import="true" targetId="0f0f-ea3d-a360-9097" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="390.0"/>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="450.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="c619-19fa-1321-10eb" name="Knight Despoiler" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
@@ -137,7 +137,7 @@
         <entryLink id="4bcf-1b78-b83a-c2a4" name="Traitoris Lance" hidden="false" collective="false" import="true" targetId="0f0f-ea3d-a360-9097" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="410.0"/>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="470.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="fe3d-7bbe-171b-b444" name="Knight Rampager" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
@@ -153,7 +153,7 @@
         <entryLink id="e16c-f392-8577-7607" name="Traitoris Lance" hidden="false" collective="false" import="true" targetId="4017-579c-0b63-875b" type="selectionEntry"/>
       </entryLinks>
       <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="485.0"/>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="555.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="24cb-1c17-0650-f222" name="War Dog Brigand" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
@@ -186,12 +186,12 @@
     </selectionEntry>
     <selectionEntry id="6502-098b-f373-e456" name="Chaos Acastus Knight Asterius" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="730.0"/>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="840.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="4246-8684-d8b7-f1b5" name="Chaos Acastus Knight Porphyrion" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="645.0"/>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="740.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="997b-dcc9-ccd5-2d32" name="Chaos Cerastus Knight Acheron" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
@@ -199,7 +199,7 @@
         <entryLink id="9bd3-4f68-7c75-31f9" name="Traitoris Lance" hidden="false" collective="false" import="true" targetId="0f0f-ea3d-a360-9097" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="405.0"/>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="465.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="a7f6-4932-9eb1-e6bc" name="Chaos Cerastus Knight Atrapos" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
@@ -207,17 +207,17 @@
         <entryLink id="69a4-531d-5895-333a" name="Traitoris Lance" hidden="false" collective="false" import="true" targetId="0f0f-ea3d-a360-9097" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="405.0"/>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="465.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="f606-ae90-6032-9e6d" name="Chaos Cerastus Knight Castigator" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="420.0"/>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="480.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="d8b6-6957-fef6-df51" name="Chaos Cerastus Knight Lancer" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="405.0"/>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="465.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="a0fc-c093-a988-d91c" name="Chaos Questoris Knight Magaera" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
@@ -225,7 +225,7 @@
         <entryLink id="687b-6212-1afc-c1ea" name="Traitoris Lance" hidden="false" collective="false" import="true" targetId="0f0f-ea3d-a360-9097" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="405.0"/>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="465.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="4ef8-8d28-eeac-2bf7" name="Chaos Questoris Knight Styrix" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
@@ -233,7 +233,7 @@
         <entryLink id="c0c0-5886-a243-fac1" name="Traitoris Lance" hidden="false" collective="false" import="true" targetId="0f0f-ea3d-a360-9097" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="440.0"/>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="505.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="f403-7b56-dfe8-566c" name="War Dog Moirax" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">

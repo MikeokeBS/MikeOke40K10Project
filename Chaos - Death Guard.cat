@@ -319,10 +319,26 @@
       <selectionEntries>
         <selectionEntry id="6a3a-343d-9ad9-4bf3" name="5 Plague Marines" hidden="false" collective="false" import="true" type="model">
           <constraints>
-            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="adf7-d2e0-17ce-cea6" type="max"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="adf7-d2e0-17ce-cea6" type="max"/>
           </constraints>
           <costs>
             <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="100.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="b334-2469-4950-ec58" name="7 Plague Marines" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="097d-a86c-2113-599b" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="140.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="782b-af1b-9b4a-1e53" name="10 Plague Marines" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="dd78-9c4b-89a2-87f7" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="200.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
