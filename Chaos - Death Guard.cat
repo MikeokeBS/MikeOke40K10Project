@@ -129,7 +129,7 @@
     </entryLink>
     <entryLink id="af87-3d17-e68f-832d" name="Death Guard Land Raider" hidden="false" collective="false" import="true" targetId="186b-798e-abfa-4fa3" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="1c13-e7fb-1310-3e26" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="f405-2176-7559-6807" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="fceb-5a84-0a95-8563" name="Death Guard Predator Annihilator" hidden="false" collective="false" import="true" targetId="f770-6f77-de7c-3c3f" type="selectionEntry">

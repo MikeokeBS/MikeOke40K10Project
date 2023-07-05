@@ -189,7 +189,7 @@
     </entryLink>
     <entryLink id="9d68-919c-870f-31dc" name="Chaos Land Raider" hidden="false" collective="false" import="true" targetId="f9b5-7426-7ff4-26a9" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="8c95-3cce-95a4-fea8" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="4354-3efe-a35a-dbfb" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="7609-75a6-9c80-beab" name="Chaos Predator Annihilator" hidden="false" collective="false" import="true" targetId="6c96-e5a0-5111-7249" type="selectionEntry">
