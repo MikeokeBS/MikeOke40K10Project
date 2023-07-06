@@ -53,8 +53,15 @@
     <categoryEntry id="852e-c795-2e7d-b332" name="Epic Hero" hidden="false"/>
     <categoryEntry id="2bc4-8c19-bc7b-a70d" name="Character" hidden="false"/>
     <categoryEntry id="4c72-75fb-cc79-7b8d" name="Dedicated Transport" hidden="false"/>
-    <categoryEntry id="541e-c6f4-5c40-45ec" name="Other" hidden="false"/>
+    <categoryEntry id="b91a-4073-57e9-607b" name="Infantry" hidden="false"/>
+    <categoryEntry id="bda2-b32a-3f5b-862e" name="Vehicle" hidden="false"/>
+    <categoryEntry id="f366-37c5-868e-072b" name="Monster" hidden="false"/>
+    <categoryEntry id="2c1a-e7d4-3c6b-dbc3" name="Beast" hidden="false"/>
+    <categoryEntry id="c55d-c25a-a9a9-3baf" name="Swarm" hidden="false"/>
+    <categoryEntry id="539f-1ed0-2d90-599a" name="Flyer" page="" hidden="false"/>
+    <categoryEntry id="3fa2-503f-eaa0-1827" name="Titanic" hidden="false"/>
     <categoryEntry id="56a8-7143-031e-072a" name="Fortification" hidden="false"/>
+    <categoryEntry id="541e-c6f4-5c40-45ec" name="Other" hidden="false"/>
   </categoryEntries>
   <forceEntries>
     <forceEntry id="9f38-42b9-6626-6739" name="Index Detachment" hidden="false">
@@ -76,6 +83,14 @@
             <constraint field="selections" scope="roster" value="6.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ee5f-11e8-dcd0-467f" type="max"/>
           </constraints>
         </categoryLink>
+        <categoryLink id="af0c-ce8c-c9bf-571f" name="Infantry" hidden="false" targetId="b91a-4073-57e9-607b" primary="false"/>
+        <categoryLink id="bc46-c9a7-cf4e-8250" name="Vehicle" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="false"/>
+        <categoryLink id="3935-1d54-d555-28b8" name="Monster" hidden="false" targetId="f366-37c5-868e-072b" primary="false"/>
+        <categoryLink id="680d-dc1c-ea04-31ba" name="Beast" hidden="false" targetId="2c1a-e7d4-3c6b-dbc3" primary="false"/>
+        <categoryLink id="fe5b-d637-67a1-6f41" name="Swarm" hidden="false" targetId="c55d-c25a-a9a9-3baf" primary="false"/>
+        <categoryLink id="43a7-7595-71af-4be2" name="Flyer" hidden="false" targetId="539f-1ed0-2d90-599a" primary="false"/>
+        <categoryLink id="a22f-4faf-36be-9584" name="Titanic" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="false"/>
+        <categoryLink id="7658-f459-36f8-19b7" name="Fortification" hidden="false" targetId="56a8-7143-031e-072a" primary="false"/>
         <categoryLink id="63d7-44d3-eaac-a02a" name="Other" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="false"/>
       </categoryLinks>
     </forceEntry>

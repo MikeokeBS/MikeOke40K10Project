@@ -11,14 +11,14 @@
         <categoryLink id="01bd-d57b-c33f-2d9c" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
       </categoryLinks>
     </entryLink>
-    <entryLink id="6378-55b2-b228-4eb0" name="Thousand Sons Predator Annhilator" hidden="false" collective="false" import="true" targetId="f593-541b-088e-503b" type="selectionEntry">
+    <entryLink id="6378-55b2-b228-4eb0" name="World Eaters Predator Annhilator" hidden="false" collective="false" import="true" targetId="f593-541b-088e-503b" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="3d62-7ed2-05a2-b746" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="59ea-62b0-8d0a-0cb2" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
-    <entryLink id="413c-f378-d161-1d1e" name="Thousand Sons Predator Destructor" hidden="false" collective="false" import="true" targetId="b3af-4d6f-743f-353b" type="selectionEntry">
+    <entryLink id="413c-f378-d161-1d1e" name="World Eaters Predator Destructor" hidden="false" collective="false" import="true" targetId="b3af-4d6f-743f-353b" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="449d-f21e-0573-4945" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="3133-6640-4d34-6085" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="f4a9-013d-d8fd-d2ed" name="Thousand Sons Rhino" hidden="false" collective="false" import="true" targetId="c8ea-235f-4a52-da98" type="selectionEntry">
@@ -26,29 +26,29 @@
         <categoryLink id="592d-1aa4-3225-ca20" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
       </categoryLinks>
     </entryLink>
-    <entryLink id="9823-d39b-5429-24f8" name="Thousand Sons Chaos Spawn" hidden="false" collective="false" import="true" targetId="dd58-851d-0844-40b4" type="selectionEntry">
+    <entryLink id="9823-d39b-5429-24f8" name="World Eaters Chaos Spawn" hidden="false" collective="false" import="true" targetId="dd58-851d-0844-40b4" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="2a1a-286e-b114-67ca" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="200c-20cd-0cf0-d25b" name="Beast" hidden="false" targetId="2c1a-e7d4-3c6b-dbc3" primary="true"/>
       </categoryLinks>
     </entryLink>
-    <entryLink id="ec7b-8fbc-6812-ce61" name="Thousand Sons Forgefiend" hidden="false" collective="false" import="true" targetId="7d63-bf88-ef50-2780" type="selectionEntry">
+    <entryLink id="ec7b-8fbc-6812-ce61" name="World Eaters Forgefiend" hidden="false" collective="false" import="true" targetId="7d63-bf88-ef50-2780" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="c89d-3d00-45b7-9f10" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="6188-7315-aa45-1eb8" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
-    <entryLink id="8466-d94c-62fb-05f6" name="Thousand Sons Helbrute" hidden="false" collective="false" import="true" targetId="1ce0-5a71-da4a-0a63" type="selectionEntry">
+    <entryLink id="8466-d94c-62fb-05f6" name="World Eaters Helbrute" hidden="false" collective="false" import="true" targetId="1ce0-5a71-da4a-0a63" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="af72-9000-163b-2174" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="8f08-6a98-c7d7-115b" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
-    <entryLink id="5555-e19f-b09c-0e72" name="Thousand Sons Heldrake" hidden="false" collective="false" import="true" targetId="ccaf-c999-8b6f-ae6e" type="selectionEntry">
+    <entryLink id="5555-e19f-b09c-0e72" name="World Eaters Heldrake" hidden="false" collective="false" import="true" targetId="ccaf-c999-8b6f-ae6e" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="2e2a-8268-9feb-7649" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="7ff3-0db1-8a68-2009" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
       </categoryLinks>
     </entryLink>
-    <entryLink id="8f6e-8663-33b1-e0ea" name="Thousand Sons Maulerfiend" hidden="false" collective="false" import="true" targetId="984c-4ebe-1b81-3373" type="selectionEntry">
+    <entryLink id="8f6e-8663-33b1-e0ea" name="World Eaters Maulerfiend" hidden="false" collective="false" import="true" targetId="984c-4ebe-1b81-3373" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="43ba-44c9-2646-db9b" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="300b-914a-3457-dbc1" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="d227-fe63-3950-6b04" name="World Eaters Daemon Prince with Wings" hidden="false" collective="false" import="true" targetId="5155-7960-a84f-d997" type="selectionEntry">
@@ -61,9 +61,9 @@
         <categoryLink id="d286-7348-1889-a5f3" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
       </categoryLinks>
     </entryLink>
-    <entryLink id="d38f-5b9b-3719-da47" name="Thousand Sons Defiler" hidden="false" collective="false" import="true" targetId="c129-e4bf-9bab-babe" type="selectionEntry">
+    <entryLink id="d38f-5b9b-3719-da47" name="World Eaters Defiler" hidden="false" collective="false" import="true" targetId="c129-e4bf-9bab-babe" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="1f1b-5dca-2ff1-64a6" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="7b51-833d-ef78-0b78" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="8103-2b59-d201-0cd9" name="Angron" hidden="false" collective="false" import="true" targetId="3eab-a406-2ea8-f659" type="selectionEntry">
@@ -74,17 +74,17 @@
     </entryLink>
     <entryLink id="72f5-cb77-0ad4-1a49" name="Eightbound" hidden="false" collective="false" import="true" targetId="5f91-8f63-f8b9-b436" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="3045-e70e-3d92-6d19" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="8bb9-a900-7e51-b905" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="0054-6095-2254-94b0" name="Exalted Eightbound" hidden="false" collective="false" import="true" targetId="b245-ba73-9812-ec39" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="6c67-1b22-8088-7364" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="fc13-ee84-1e79-f75e" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="2511-4482-c435-f45a" name="Jakhals" hidden="false" collective="false" import="true" targetId="880c-927b-3873-4a3a" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="0aae-fdee-3ee3-c61b" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="5ee7-3d67-b08e-a5ef" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="a5a8-fa11-35a1-b846" name="Kharn the Betrayer" hidden="false" collective="false" import="true" targetId="4803-a4ee-c9c7-4f8d" type="selectionEntry">
@@ -96,7 +96,7 @@
     <entryLink id="3df3-6a0d-ed87-6cda" name="Lord Invocatus" hidden="false" collective="false" import="true" targetId="a72f-515f-1d3f-e588" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="463c-3051-fe01-4bd0" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
-        <categoryLink id="c495-1034-7724-ac09" name="Configuration" hidden="false" targetId="19b8-16e6-407b-cc4d" primary="false"/>
+        <categoryLink id="b544-fe6b-8a56-28a8" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="3788-06e9-be98-06e1" name="World Eaters Lord on Juggernaut" hidden="false" collective="false" import="true" targetId="cd38-81d1-20ce-a4f6" type="selectionEntry">
@@ -116,7 +116,7 @@
     </entryLink>
     <entryLink id="0a3d-6d0b-360d-7a29" name="World Eaters Terminator Squad" hidden="false" collective="false" import="true" targetId="18f3-8f3e-6300-0550" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="4ef5-7178-a369-f84a" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="dea7-4d9b-b341-000b" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="52c7-5ad9-48f0-58dd" name="Khorne Lord of Skulls" hidden="false" collective="false" import="true" targetId="ca08-e9e0-4c38-045b" type="selectionEntry">

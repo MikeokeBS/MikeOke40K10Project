@@ -44,12 +44,12 @@
     </entryLink>
     <entryLink id="ba91-d720-230a-e55a" name="Tyranid Warriors with Melee Bio Weapons" hidden="false" collective="false" import="true" targetId="e146-9a7d-159f-0314" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="f412-1b50-f9ae-e1f3" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="ee12-1383-4b2b-5aa2" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="8490-3099-72b0-872d" name="Tyranid Warriors with Ranged Bio Weapons" hidden="false" collective="false" import="true" targetId="52b5-fa2c-0844-b6e1" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="9c61-3e88-7c28-a0a8" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="94d1-de2d-ee11-bf50" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="14c7-eee3-030d-eed2" name="Termagants" hidden="false" collective="false" import="true" targetId="0215-505a-39af-9da2" type="selectionEntry">
@@ -69,12 +69,12 @@
     </entryLink>
     <entryLink id="b513-af3e-3d2e-cecf" name="Toxicrene" hidden="false" collective="false" import="true" targetId="09db-26aa-1da0-c347" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="dbea-17fa-8899-0333" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="82df-e933-2707-4c1e" name="New CategoryLink" hidden="false" targetId="f366-37c5-868e-072b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="c3cd-29a3-7098-fa90" name="Tyrant Guard" hidden="false" collective="false" import="true" targetId="f85e-1f40-5a14-dc8b" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="d77f-b7f8-0d52-412d" name="Other" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="9f01-86de-2aad-0784" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="61b0-d18b-18ac-f916" name="Neurotyrant" hidden="false" collective="false" import="true" targetId="994e-f573-584a-0329" type="selectionEntry">
@@ -84,7 +84,7 @@
     </entryLink>
     <entryLink id="ca3c-4d10-7dc6-f462" name="Lictor" hidden="false" collective="false" import="true" targetId="d580-39c8-5ad5-5eec" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="b5ae-7d7f-b393-76b6" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="3fdb-f190-6a1c-561a" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="1f28-a722-0d4e-c2a1" name="Deathleaper" hidden="false" collective="false" import="true" targetId="5b7b-f880-2a43-865d" type="selectionEntry">
@@ -94,52 +94,52 @@
     </entryLink>
     <entryLink id="258a-c3df-7cb0-a010" name="Maleceptor" hidden="false" collective="false" import="true" targetId="8abc-8149-4a82-4e11" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="7d11-f139-5c47-fd00" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="8c7b-5364-98f0-c518" name="New CategoryLink" hidden="false" targetId="f366-37c5-868e-072b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="d804-94a9-cc2a-c8f6" name="Pyrovores" hidden="false" collective="false" import="true" targetId="3176-f40f-a96e-46a4" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="a401-9163-a090-6ff8" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="118c-cea8-b8f8-c71b" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="0d02-abcf-1527-0833" name="Haruspex" hidden="false" collective="false" import="true" targetId="34f9-6cd4-7d32-9ab3" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="d1e0-1196-18aa-f40c" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="4115-84b6-6c45-5cf7" name="New CategoryLink" hidden="false" targetId="f366-37c5-868e-072b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="8e4c-30df-f851-b1ff" name="Venomthropes" hidden="false" collective="false" import="true" targetId="3485-7f8b-3f92-a7f0" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="4862-d90b-73e9-9c06" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="ea37-1665-5c5c-5a5b" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="a563-8007-2f96-0dcc" name="Von Ryan&apos;s Leapers" hidden="false" collective="false" import="true" targetId="2df7-c239-f7aa-4c79" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="f7b9-1483-3bea-1518" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="1e69-f240-a55c-8ad5" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="4e7a-f00e-40c0-e570" name="Neurogaunts" hidden="false" collective="false" import="true" targetId="3e43-d583-a212-9b81" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="5e27-09c6-3771-2ef4" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="3284-e3b2-a45f-9cb5" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="fa02-53d1-8d6e-cb04" name="Zoanthropes" hidden="false" collective="false" import="true" targetId="0dab-8386-4093-aa0b" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="7ef6-60ff-c5a5-fffd" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="86c1-9266-d7d9-00c7" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="030e-cd4f-0582-aa1f" name="Genestealers" hidden="false" collective="false" import="true" targetId="e314-11fc-51fd-1ad0" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="f94b-01b2-75dd-9ae9" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="5e4f-2378-ae83-3e6d" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="c715-71a8-9152-645d" name="Raveners" hidden="false" collective="false" import="true" targetId="960a-8492-00c3-9586" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="3166-5e4a-b479-ea50" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="05ca-f205-cc92-45d7" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="99cb-0ea4-e12c-8c51" name="Ripper Swarms" hidden="false" collective="false" import="true" targetId="f653-46a8-997b-3177" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="7136-ae6f-4170-8e03" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="b835-0b70-bc64-5606" name="New CategoryLink" hidden="false" targetId="c55d-c25a-a9a9-3baf" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="a61f-1b9c-b00d-cd5b" name="Parasite of Mortrex" hidden="false" collective="false" import="true" targetId="65c5-63b7-1957-15d5" type="selectionEntry">
@@ -149,53 +149,52 @@
     </entryLink>
     <entryLink id="2b92-80e4-af89-31fd" name="Mawloc" hidden="false" collective="false" import="true" targetId="c7e7-bdee-d8d3-4dc1" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="2e61-a900-676e-075e" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="0211-b34f-4912-2adc" name="New CategoryLink" hidden="false" targetId="f366-37c5-868e-072b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="6d7b-6a07-4346-45a1" name="Trygon" hidden="false" collective="false" import="true" targetId="75b3-beee-7123-74d6" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="ee7c-63aa-8611-2e9c" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="96d3-9a73-b395-111b" name="New CategoryLink" hidden="false" targetId="f366-37c5-868e-072b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="17e5-c87c-ea94-01ff" name="Mucolid Spores" hidden="false" collective="false" import="true" targetId="90ce-4803-2700-4fe5" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="81f2-dfd0-9a0b-fa4d" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="5b19-6c04-7c28-2d96" name="New CategoryLink" hidden="false" targetId="2c1a-e7d4-3c6b-dbc3" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="d419-859b-b6f9-937d" name="Spore Mines" hidden="false" collective="false" import="true" targetId="57e3-0e6e-a0f0-1552" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="ca06-f622-6bf4-c402" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="6802-da11-5935-811b" name="New CategoryLink" hidden="false" targetId="2c1a-e7d4-3c6b-dbc3" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="450f-a404-76b9-4344" name="Exocrine" hidden="false" collective="false" import="true" targetId="bde9-5423-6c18-9144" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="c82e-fbc2-39de-74c9" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
-        <categoryLink id="aa4d-b9bc-4abc-40ec" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="false"/>
+        <categoryLink id="02cc-38b9-da54-7ebd" name="New CategoryLink" hidden="false" targetId="f366-37c5-868e-072b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="97b9-139a-ca5c-a9cf" name="Biovores" hidden="false" collective="false" import="true" targetId="fe79-977d-0bc7-af10" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="f5eb-3da8-3751-98e5" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="82f2-e900-a707-4869" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="56d7-6d53-a7e0-7e13" name="Carnifexes" hidden="false" collective="false" import="true" targetId="9d1b-d85a-238f-b1f8" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="38d0-1c39-dfb9-6014" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="1e9f-0e0f-a525-29e0" name="New CategoryLink" hidden="false" targetId="f366-37c5-868e-072b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="d033-095f-9f4b-de32" name="Screamer Killer" hidden="false" collective="false" import="true" targetId="af30-74e4-2a69-f6d9" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="e655-e864-0469-003b" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="2089-bde1-9de4-751f" name="New CategoryLink" hidden="false" targetId="f366-37c5-868e-072b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="f869-4ed9-48e7-228d" name="Hive Guard" hidden="false" collective="false" import="true" targetId="7ba1-abaa-f2de-cd80" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="96e1-c74b-8c7c-9c2c" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="c89a-fb48-58ff-6c3c" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="9d13-dd2d-5745-2b69" name="Tyrannofex" hidden="false" collective="false" import="true" targetId="25ca-e26e-7cd0-c538" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="9f3a-e616-dac8-b5df" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="8310-591e-0731-2e79" name="New CategoryLink" hidden="false" targetId="f366-37c5-868e-072b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="f53d-88ce-a3a7-61be" name="Tyrannocyte" hidden="false" collective="false" import="true" targetId="ef2c-1544-d4ff-7014" type="selectionEntry">
@@ -205,27 +204,27 @@
     </entryLink>
     <entryLink id="334d-1360-5f3f-a6aa" name="Hive Crone" hidden="false" collective="false" import="true" targetId="2724-6082-d15f-f09b" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="eb92-e533-4237-f398" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="6e98-b356-cb51-b264" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="b5f2-fabc-795d-fa15" name="Harpy" hidden="false" collective="false" import="true" targetId="a213-dada-1994-d499" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="f19d-7aca-62ac-2960" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="8f4c-b50b-f950-a250" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="d566-9665-0e37-519e" name="Sporocyst" hidden="false" collective="false" import="true" targetId="d035-4e25-c915-0ef5" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="f776-ff04-401b-19e6" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="d804-c6a6-9e84-7f08" name="New CategoryLink" hidden="false" targetId="f366-37c5-868e-072b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="4d1b-5c8f-281f-5a4f" name="Psychophage" hidden="false" collective="false" import="true" targetId="b7ba-ff3f-5af0-0471" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="af95-4f01-8c63-4f8a" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="f052-8caa-94d4-9a86" name="New CategoryLink" hidden="false" targetId="f366-37c5-868e-072b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="f97b-ed54-b086-3fc8" name="Barbgaunts" hidden="false" collective="false" import="true" targetId="6d65-13e5-4166-ba33" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="eb97-3ac4-add6-f2f0" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="a02d-d578-d89f-4d2a" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="9378-aea8-f7a6-7641" name="Battle Size" hidden="false" collective="false" import="true" targetId="9f26-de51-fad4-5cec" type="selectionEntry">
@@ -235,12 +234,12 @@
     </entryLink>
     <entryLink id="f343-5d29-a22b-61c8" name="Barbed Hierodule" hidden="false" collective="false" import="true" targetId="124a-6e87-8672-846d" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="75e8-fc72-ced0-c08a" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="7976-8d9c-f8ec-f5ff" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="8d64-f530-cf62-233f" name="Scythed Hierodule" hidden="false" collective="false" import="true" targetId="fedf-08cd-5ea2-1745" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="1779-eea4-b034-cc39" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="8db6-e149-a99f-c084" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="49ca-23ba-caac-0d32" name="Harridan" hidden="false" collective="false" import="true" targetId="5459-e6af-e0df-dfb6" type="selectionEntry">

@@ -14,22 +14,22 @@
     </entryLink>
     <entryLink id="c0d2-b76c-80df-db8e" name="Allarus Custodians" hidden="false" collective="false" import="true" targetId="a912-2512-f269-330f" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="3ce3-d2cf-ed71-c416" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="63a2-53be-2672-835c" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="03e4-48c3-0de0-0529" name="Agamatus Custodians" hidden="false" collective="false" import="true" targetId="a68f-9838-fcb5-ad0d" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="7cd7-bbf4-d4ab-65eb" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="41cd-36e7-efd5-0aec" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="4f68-f2b1-2b3b-c3bd" name="Witchseekers" hidden="false" collective="false" import="true" targetId="b972-eb0a-0024-9fa0" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="a009-8601-6d4f-3c3f" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="dbc8-6922-8a5f-a1ea" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="86ee-3bb8-68d3-c8f8" name="Vigilators" hidden="false" collective="false" import="true" targetId="f38a-846d-29b9-b28a" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="20d9-c1c3-9ac3-94f3" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="b9dd-8d3f-442b-f7fd" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="ac69-86f4-f49d-df4a" name="Anathema Psykana Rhino" hidden="false" collective="false" import="true" targetId="4a10-9e2d-2153-44e7" type="selectionEntry">
@@ -44,17 +44,17 @@
     </entryLink>
     <entryLink id="86b6-7fa0-f39b-dab5" name="Contemptor-Galatus Dreadnought" hidden="false" collective="false" import="true" targetId="1d00-a696-de0c-74c4" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="e108-88f1-e378-ab32" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="24b4-1d47-b282-0920" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="61b3-db7d-7c16-828b" name="Contemptor-Achillus Dreadnought" hidden="false" collective="false" import="true" targetId="ad46-31ca-2d28-a8e8" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="6fc3-661e-806f-0ab5" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="0ea1-9ba9-9b89-fb9c" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="0b3c-a6ef-ff1b-45de" name="Caladius Grav-tank" hidden="false" collective="false" import="true" targetId="225b-5c32-aa40-8e81" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="d708-3e71-3719-4bd2" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="dab1-1941-16be-591f" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="0a4f-9779-4c74-ca9f" name="Custodian Guard" hidden="false" collective="false" import="true" targetId="1e9d-1138-8c7b-63f7" type="selectionEntry">
@@ -69,7 +69,7 @@
     </entryLink>
     <entryLink id="df64-e1af-7c64-7fc7" name="Custodian Wardens" hidden="false" collective="false" import="true" targetId="59dc-079a-f7d3-38fe" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="affa-296c-8d19-d413" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="d65f-7926-6e5c-f20a" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="d0f1-6002-718d-4bf7" name="Orion Assault Dropship" hidden="false" collective="false" import="true" targetId="3fde-5a8a-13af-967a" type="selectionEntry">
@@ -79,7 +79,7 @@
     </entryLink>
     <entryLink id="9143-b43e-56ad-7acc" name="Custodian Guard with Adrasite and Pyrithite Spears" hidden="false" collective="false" import="true" targetId="b865-47e1-b6db-0cc9" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="50bc-e14d-426b-ae75" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="df22-7741-dd51-c984" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="f2b8-6256-256f-2374" name="Coronus Grav-carrier" hidden="false" collective="false" import="true" targetId="7f71-6566-4e89-ad1a" type="selectionEntry">
@@ -89,7 +89,7 @@
     </entryLink>
     <entryLink id="b7f4-4ff3-2a76-75b1" name="Prosecutors" hidden="false" collective="false" import="true" targetId="a222-65b5-5e74-6b8f" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="c606-e075-3237-3bd9" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="fcdc-ec8b-fc0e-7442" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="94a8-a849-66e4-2548" name="Shield-Captain" hidden="false" collective="false" import="true" targetId="e698-9672-4dd1-06f5" type="selectionEntry">
@@ -121,7 +121,7 @@
     </entryLink>
     <entryLink id="6ce8-48d0-8ed8-08b2" name="Venerable Contemptor Dreadnought" hidden="false" collective="false" import="true" targetId="0aef-645a-6ad8-d262" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="53f6-0932-016c-a2ba" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="05ed-9b93-a137-265d" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="a923-ee13-ed91-5262" name="Venerable Land Raider" hidden="false" collective="false" import="true" targetId="dc60-3a3f-8d3a-d9b2" type="selectionEntry">
@@ -131,37 +131,37 @@
     </entryLink>
     <entryLink id="ed63-7196-5817-aa36" name="Vertus Praetors" hidden="false" collective="false" import="true" targetId="27e0-48ad-5ba7-8265" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="15ac-0b3b-ec62-d999" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="2b8d-0047-fcaa-9ccc" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="f139-366c-c572-eaec" name=" Aquilon Custodians" hidden="false" collective="false" import="true" targetId="6b85-e47b-5e6c-908a" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="c75f-4728-a0e4-883e" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="b4fa-d7e3-8045-b614" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="d7f2-1c07-25eb-819c" name=" Ares Gunship" hidden="false" collective="false" import="true" targetId="3937-f7b4-9b38-fbec" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="4a60-4909-884b-7892" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="6c9b-a44c-88f7-0e46" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="a77f-f86e-17fc-7bf8" name="Pallas Grav-attack" hidden="false" collective="false" import="true" targetId="800e-f7b7-c1b1-5005" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="370e-16fe-01d5-fa67" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="9f71-a5d4-fd62-65a2" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="78df-a176-599a-15c1" name="Venatari Custodians" hidden="false" collective="false" import="true" targetId="5914-0255-9702-2cb5" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="7b43-3262-04a1-a7e3" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="ff7f-4021-70c6-7799" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="7c38-1acc-f96a-c860" name="Telemon Heavy Dreadnought" hidden="false" collective="false" import="true" targetId="8ef8-9e0b-ad52-f632" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="8c52-3352-3550-4889" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="6fdf-62cf-5c49-d101" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="00ce-2e8e-4119-ee98" name="Sagittarum Custodians" hidden="false" collective="false" import="true" targetId="6429-dbdb-2797-9696" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="ae6b-f264-7fdd-0510" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="6a7f-d133-d370-3e8e" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
   </entryLinks>
@@ -209,6 +209,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="4a10-9e2d-2153-44e7" name="Anathema Psykana Rhino" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <costs>
@@ -273,6 +276,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="59dc-079a-f7d3-38fe" name="Custodian Wardens" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <selectionEntries>
@@ -285,6 +291,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="e99a-51ff-2777-3b73" name="Knight-Centura" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
@@ -344,6 +353,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="e698-9672-4dd1-06f5" name="Shield-Captain" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
@@ -430,6 +442,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="6b85-e47b-5e6c-908a" name=" Aquilon Custodians" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
       <selectionEntries>
@@ -442,6 +457,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="3937-f7b4-9b38-fbec" name=" Ares Gunship" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <costs>
@@ -474,6 +492,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="a68f-9838-fcb5-ad0d" name="Agamatus Custodians" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
       <selectionEntries>
@@ -486,6 +507,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="b972-eb0a-0024-9fa0" name="Witchseekers" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
       <selectionEntries>
@@ -493,6 +517,9 @@
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="01fb-4f7c-0091-3eaf" type="max"/>
           </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="a71f-9f69-a940-9f4e" name="5 Witchseekers" hidden="false" collective="false" import="true" type="model">
           <constraints>
@@ -519,6 +546,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="f38a-846d-29b9-b28a" name="Vigilators" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
       <selectionEntries>
@@ -555,6 +585,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
   </sharedSelectionEntries>
   <sharedSelectionEntryGroups>

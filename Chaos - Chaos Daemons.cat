@@ -11,11 +11,13 @@
       <categoryLinks>
         <categoryLink id="2016-bae5-8c0d-f60a" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
         <categoryLink id="d246-bee7-c51d-4fb3" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+        <categoryLink id="0291-2aee-618a-0d0d" name="Monster" hidden="false" targetId="f366-37c5-868e-072b" primary="false"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="a28a-3587-4407-465c" name="Bloodthirster" hidden="false" collective="false" import="true" targetId="ade7-d12a-e0c6-84a0" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="cb71-b457-d555-8465" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+        <categoryLink id="e530-c67d-f1f0-34d7" name="Monster" hidden="false" targetId="f366-37c5-868e-072b" primary="false"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="35d2-a0a0-cbfa-94f0" name="Skullmaster" hidden="false" collective="false" import="true" targetId="56a9-4b38-181e-69c1" type="selectionEntry">
@@ -26,11 +28,13 @@
     <entryLink id="48bf-e48e-8fbe-511e" name="Bloodmaster" hidden="false" collective="false" import="true" targetId="6f75-d960-9d1d-0fc1" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="91ed-8168-87ee-8992" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+        <categoryLink id="3ae0-b9b0-2143-666f" name="Infantry" hidden="false" targetId="b91a-4073-57e9-607b" primary="false"/>
       </categoryLinks>
     </entryLink>
-    <entryLink id="d8f8-7a0f-ac97-afb5" name="Skullmaster" hidden="false" collective="false" import="true" targetId="56a9-4b38-181e-69c1" type="selectionEntry">
+    <entryLink id="d8f8-7a0f-ac97-afb5" name="Skulltaker" hidden="false" collective="false" import="true" targetId="6431-d352-648b-3d2d" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="bbd0-dd59-d748-fa72" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+        <categoryLink id="1834-5ce3-c673-25a9" name="Infantry" hidden="false" targetId="b91a-4073-57e9-607b" primary="false"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="3f2a-2183-a097-ef80" name="Rendmaster on Bloodthrone" hidden="false" collective="false" import="true" targetId="60ed-0dbf-6ac2-8e05" type="selectionEntry">
@@ -43,11 +47,13 @@
       <categoryLinks>
         <categoryLink id="4067-3a72-7e56-f300" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
         <categoryLink id="4bd5-70c8-5278-03fd" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+        <categoryLink id="03bf-89d9-035a-86c9" name="Beast" hidden="false" targetId="2c1a-e7d4-3c6b-dbc3" primary="false"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="a76d-cec6-1b03-59d7" name="Bloodletters" hidden="false" collective="false" import="true" targetId="b020-49db-0dcb-51d3" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="d28b-bd63-fbf6-3dcd" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+        <categoryLink id="3fe6-54a0-cf58-552a" name="Infantry" hidden="false" targetId="b91a-4073-57e9-607b" primary="false"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="6ae0-2078-99e8-2c23" name="Bloodcrushers" hidden="false" collective="false" import="true" targetId="4bf8-7117-d30d-f744" type="selectionEntry">
@@ -120,12 +126,12 @@
     </entryLink>
     <entryLink id="c959-6456-b801-ddef" name="Flamers" hidden="false" collective="false" import="true" targetId="2785-9332-fb3d-ecb1" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="d8c8-7e9b-e222-cd8b" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="78ed-0aa8-4301-ffcc" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="48a0-6f16-d217-0b06" name="Screamers" hidden="false" collective="false" import="true" targetId="6d47-9562-7420-8b7c" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="1b7e-d242-ed90-335d" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="62af-5bbb-afba-d21b" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="5efc-ebcd-9409-c539" name="Exalted Flamer" hidden="false" collective="false" import="true" targetId="e56f-0b91-fe4a-70b7" type="selectionEntry">
@@ -189,7 +195,7 @@
     </entryLink>
     <entryLink id="a828-e04a-1c27-8344" name="Beasts of Nurgle" hidden="false" collective="false" import="true" targetId="9502-cc5d-32c5-0000" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="e78e-5004-d2e0-736c" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="f5a3-09fa-0938-fdd7" name="New CategoryLink" hidden="false" targetId="2c1a-e7d4-3c6b-dbc3" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="6dd1-466e-82b1-bdab" name="Plague Drones" hidden="false" collective="false" import="true" targetId="e4fb-1ca2-23d1-c45e" type="selectionEntry">
@@ -252,7 +258,7 @@
     </entryLink>
     <entryLink id="eac8-aadb-19f3-c9a1" name="Fiends" hidden="false" collective="false" import="true" targetId="2e8a-db61-96f0-cc86" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="1558-20fe-aa66-76fd" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="9406-9116-3862-de1b" name="New CategoryLink" hidden="false" targetId="2c1a-e7d4-3c6b-dbc3" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="fc31-2b32-468f-1b92" name="Seekers" hidden="false" collective="false" import="true" targetId="7ef4-0a98-7c9a-7c24" type="selectionEntry">
@@ -501,6 +507,9 @@
       </costs>
     </selectionEntry>
     <selectionEntry id="9ef0-98c7-888d-b017" name="Flesh Hounds" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+      <categoryLinks>
+        <categoryLink id="7300-0bd0-c699-9be0" name="New CategoryLink" hidden="false" targetId="2c1a-e7d4-3c6b-dbc3" primary="true"/>
+      </categoryLinks>
       <selectionEntries>
         <selectionEntry id="043d-1e62-acfe-4496" name="5 Flesh Hounds" hidden="false" collective="false" import="true" type="unit">
           <constraints>

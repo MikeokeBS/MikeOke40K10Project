@@ -13,37 +13,37 @@
     </entryLink>
     <entryLink id="2c7a-9eef-a9a5-69eb" name="Armoured Sentinels" hidden="false" collective="false" import="true" targetId="73e3-ef0c-e447-2be7" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="a5e0-7595-3ac1-4ad8" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="ddbd-62a7-c110-c759" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="4a8c-5d94-4a8e-592c" name="Attilan Rough Riders" hidden="false" collective="false" import="true" targetId="c8cb-b648-a5c3-b767" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="17ba-ac3d-b61f-eeb6" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="52c8-832a-0a77-0d46" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="0ad6-b5f1-e03a-9db8" name="Baneblade" hidden="false" collective="false" import="true" targetId="9a46-d82a-de75-e7da" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="8d69-cf27-bcd6-df73" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="caeb-e124-9b35-78f8" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="5525-9faa-7c7c-c6bb" name="Banehammer" hidden="false" collective="false" import="true" targetId="2d12-3648-e943-b6bb" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="e781-f4b7-8e1c-c38f" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="60a2-857e-c76e-74e9" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="7a4d-7c22-ddca-a896" name="Banesword" hidden="false" collective="false" import="true" targetId="574e-f4b9-bfda-f34c" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="f6af-a3b1-ddc8-ac40" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="64c1-edd1-69a2-2294" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="1891-08b0-fa2f-31d4" name="Basilisk" hidden="false" collective="false" import="true" targetId="e6d4-4aed-a08c-b108" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="8ea3-def2-1361-f53e" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="d31d-1e1c-23ab-a4c5" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="cf8a-a645-d7d2-e970" name="Bullgryn Squad" hidden="false" collective="false" import="true" targetId="667e-c1e8-8d73-697a" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="96e0-041d-bf03-4139" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="e99f-a9ec-4714-406a" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="1440-4726-f477-04e9" name="Cadian Castellan" hidden="false" collective="false" import="true" targetId="7e06-63d8-190e-9b0d" type="selectionEntry">
@@ -68,7 +68,7 @@
     </entryLink>
     <entryLink id="2bef-c195-ab4c-d044" name="Chimera" hidden="false" collective="false" import="true" targetId="2b84-8124-471d-cec5" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="06cf-6a81-ab60-1715" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="9edf-47be-6ad9-5fef" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="88ba-90a8-2157-c32e" name="Commissar" hidden="false" collective="false" import="true" targetId="c0a4-a6f2-b72f-bf7d" type="selectionEntry">
@@ -83,12 +83,12 @@
     </entryLink>
     <entryLink id="d647-4474-b83e-30da" name="Deathstrike" hidden="false" collective="false" import="true" targetId="af40-0249-eebe-6ee1" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="d680-6581-e9ec-b08a" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="d667-a352-e8e8-614b" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="c187-2850-7979-9e78" name="Doomhammer" hidden="false" collective="false" import="true" targetId="b114-b677-df17-f7c8" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="1482-588a-da65-f0b7" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="0c8b-1d49-7710-3ec0" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="80bc-fcad-e671-f66a" name="Field Ordnance Battery" hidden="false" collective="false" import="true" targetId="7eb4-f979-925a-9bf8" type="selectionEntry">
@@ -104,17 +104,17 @@
     </entryLink>
     <entryLink id="2452-1d22-92d4-5502" name="Heavy Weapons Squad" hidden="false" collective="false" import="true" targetId="f736-4f8b-e997-9d7f" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="d1bf-a003-1a76-02c7" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="bb56-b917-ab92-23f4" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="18ea-1a1f-5628-885e" name="Hellhammer" hidden="false" collective="false" import="true" targetId="b179-b4c3-7435-9655" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="2c99-b43b-b2b7-e83c" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="ec9e-edc2-96c1-b96b" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="17bc-db41-1e0c-0075" name="Regimental Attachés" hidden="false" collective="false" import="true" targetId="7cce-370c-8ce0-4670" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="96c4-0102-e2bc-d64d" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="5272-5e2b-8d55-2e27" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="0f7c-a62e-b2a1-642a" name="Primaris Psyker" hidden="false" collective="false" import="true" targetId="0706-6dd6-0639-53aa" type="selectionEntry">
@@ -129,12 +129,12 @@
     </entryLink>
     <entryLink id="b907-40d0-2419-00c1" name="Ogryn Squad" hidden="false" collective="false" import="true" targetId="3502-4c51-c3b6-4e8a" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="a55a-db44-2639-a215" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="3067-015f-1334-4326" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="35e7-243e-80f2-9b01" name="Ogryn Bodyguard" hidden="false" collective="false" import="true" targetId="72b1-1c11-ca8e-bda1" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="b71f-5951-749b-2463" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="a442-70a9-8450-ef77" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="bfe0-aa4c-8ddd-9a0a" name="Nork Deddog" hidden="false" collective="false" import="true" targetId="051c-fa1b-a7c3-dab0" type="selectionEntry">
@@ -145,7 +145,7 @@
     </entryLink>
     <entryLink id="0070-6467-3839-f658" name="Munitorum Servitors" hidden="false" collective="false" import="true" targetId="e106-291e-e197-127e" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="eda8-7faf-6d51-eaad" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="4cd5-79ed-60ea-ce0c" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="e6e9-abd3-c93c-11d2" name="Militarum Tempestus Command Squad" hidden="false" collective="false" import="true" targetId="6c25-8fbc-7ad4-24bd" type="selectionEntry">
@@ -155,12 +155,12 @@
     </entryLink>
     <entryLink id="b4d4-2331-2ede-1522" name="Manticore" hidden="false" collective="false" import="true" targetId="5414-047e-4aa6-c065" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="63e8-edc5-f577-da1b" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="802a-a5ae-338a-bd99" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="5adc-dbc6-2d5d-d2f7" name="Ratling Snipers" hidden="false" collective="false" import="true" targetId="a17e-cfaf-4c44-3763" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="243d-c00b-cfff-fcf0" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="f18d-9a9a-74bc-6c95" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="5efc-e3fb-ea6e-3b2e" name="Lord Solar Leontus" hidden="false" collective="false" import="true" targetId="e552-423d-1143-dd65" type="selectionEntry">
@@ -171,37 +171,37 @@
     </entryLink>
     <entryLink id="4459-48d7-a601-1237" name="Leman Russ Vanquisher" hidden="false" collective="false" import="true" targetId="f103-aa97-2577-ebca" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="5021-e845-d2eb-d133" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="bc0e-1644-77eb-8666" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="7289-706c-2886-cd69" name="Leman Russ Punisher" hidden="false" collective="false" import="true" targetId="318c-7131-8e73-96a2" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="b6c3-33b6-caab-9b04" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="8a8a-b561-6a33-496e" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="2a04-23c0-5bf9-18c3" name="Leman Russ Exterminator" hidden="false" collective="false" import="true" targetId="b42b-67a3-863d-cc6a" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="d7cb-8a19-7626-948c" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="3906-a1c7-0603-a508" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="87b4-23de-c668-c0ec" name="Leman Russ Executioner" hidden="false" collective="false" import="true" targetId="3f51-a8de-55f2-68d4" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="a55b-f598-612f-0131" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="5a57-d962-b14b-1ea7" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="9f19-0373-c161-02c2" name="Leman Russ Eradicator" hidden="false" collective="false" import="true" targetId="cce7-8911-b192-16f0" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="80c0-4c41-dc96-8d06" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="20d3-9abe-03d1-006a" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="8a6c-7d4b-958c-baf6" name="Leman Russ Demolisher" hidden="false" collective="false" import="true" targetId="f1f1-ae76-7537-d92d" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="925f-c2c4-5926-34ea" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="5ee1-64b6-76f8-9511" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="1045-2c08-4ae4-a253" name="Leman Russ Battle Tank" hidden="false" collective="false" import="true" targetId="a84e-d67c-aa3c-b775" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="225f-fcf1-1588-6879" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="3cda-5056-7c35-4ccf" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="4f00-712b-711a-d884" name="Kasrkin" hidden="false" collective="false" import="true" targetId="4821-6de9-ada4-5d43" type="selectionEntry">
@@ -222,12 +222,12 @@
     </entryLink>
     <entryLink id="165c-c61a-c81b-762b" name="Hydra" hidden="false" collective="false" import="true" targetId="b425-babe-0545-4c0d" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="91bb-70ed-dd1c-78a8" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="0c0a-a4ff-6257-1d9f" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="99d3-dcc9-6639-4c95" name="Hellhound" hidden="false" collective="false" import="true" targetId="0c57-c97a-b01c-0266" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="8a11-06ae-2742-b52f" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="e98a-1547-3d9f-b8bc" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="36b5-4c2f-f170-a12a" name="Regimental Enginseer" hidden="false" collective="false" import="true" targetId="4f5b-2852-2548-4ff3" type="selectionEntry">
@@ -242,12 +242,12 @@
     </entryLink>
     <entryLink id="4061-67b4-3613-0823" name="Rogal Dorn Battle Tank" hidden="false" collective="false" import="true" targetId="4b2b-e188-8026-5d3b" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="186b-e97d-2d1c-5b40" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="0ce8-5ef8-73dc-3b7d" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="7009-c947-e1f7-f00f" name="Scout Sentinels" hidden="false" collective="false" import="true" targetId="9eae-2926-9beb-6f0c" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="f66a-a33b-3d60-3c7a" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="a454-8945-9e2d-e2e6" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="9ff4-59e9-26a8-bbe3" name="Sergeant Harker" hidden="false" collective="false" import="true" targetId="def5-b3a4-9f52-2492" type="selectionEntry">
@@ -258,7 +258,7 @@
     </entryLink>
     <entryLink id="bb40-a8bf-e581-9cdc" name="Shadowsword" hidden="false" collective="false" import="true" targetId="dc5d-f596-75e4-ad50" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="912e-7a40-13ec-d7d6" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="6943-bc66-e4f4-a8bf" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="1963-25e3-f98e-e333" name="Sly Marbo" hidden="false" collective="false" import="true" targetId="0692-5250-7f9d-2a3c" type="selectionEntry">
@@ -269,12 +269,12 @@
     </entryLink>
     <entryLink id="920d-db72-f02d-5738" name="Stormlord" hidden="false" collective="false" import="true" targetId="8269-22e7-697c-0ced" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="8f3b-f823-d07a-c567" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="0ac6-f31e-efa5-6d06" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="a1c3-64d3-f482-8864" name="Stormsword" hidden="false" collective="false" import="true" targetId="e731-f479-35d9-91b9" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="8647-5370-480c-5cd8" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="d3fc-040e-40c9-d795" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="aa6a-b00e-09b3-4320" name="Tank Commander" hidden="false" collective="false" import="true" targetId="99a7-5e2f-b88d-ee04" type="selectionEntry">
@@ -294,7 +294,7 @@
     </entryLink>
     <entryLink id="bc37-f41a-a96f-cc6e" name="Tempestus Scions" hidden="false" collective="false" import="true" targetId="a71e-3685-7107-e8f3" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="84d4-4971-4bad-a001" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="1792-7aca-8837-e494" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="7a39-a694-bb64-2e8c" name="Ursula Creed" hidden="false" collective="false" import="true" targetId="508d-733c-6398-610f" type="selectionEntry">
@@ -305,17 +305,17 @@
     </entryLink>
     <entryLink id="8fb4-48d2-d622-2c31" name="Valkyrie" hidden="false" collective="false" import="true" targetId="0b14-6e24-c856-1a68" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="20e3-d5c5-1350-da03" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="cc43-8946-ffb0-61cb" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="974d-ae40-cb13-4f2d" name="Wyvern" hidden="false" collective="false" import="true" targetId="9ab2-edbe-a4af-d6b4" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="7dff-8a08-7b9d-a8a0" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="0658-156e-2201-1a99" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="affa-9085-78f9-02c6" name="Death Rider Squadron" hidden="false" collective="false" import="true" targetId="3d23-ad92-b82b-0a99" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="d96a-e72b-434a-38ba" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="3dbd-eb13-664a-f3a4" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="bb07-a73a-50ac-00bc" name="Death Rider Squadron Commander" hidden="false" collective="false" import="true" targetId="6085-37a4-de6a-9421" type="selectionEntry">
@@ -330,52 +330,52 @@
     </entryLink>
     <entryLink id="3c92-e8bb-53c6-8b5a" name="Hades Breaching Drill" hidden="false" collective="false" import="true" targetId="f771-f852-4f82-0d6d" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="9a9c-89be-851b-7712" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="e9c2-d5cb-97d0-f83f" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="8037-2474-bc7f-0c5c" name="Macharius" hidden="false" collective="false" import="true" targetId="bb12-8e26-1d43-2528" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="60d8-3f58-b6ad-688e" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="5049-cad5-e762-72f1" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="84f9-97a7-a4e9-1fd2" name="Macharius Vanquisher" hidden="false" collective="false" import="true" targetId="ba01-3da9-4e7a-3bcb" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="d046-93f9-5b34-d8e3" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="b53d-0db9-769d-5952" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="4a07-b421-c3f1-3e60" name="Macharius Vulcan" hidden="false" collective="false" import="true" targetId="406f-6ce2-f7f8-cd66" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="69fb-bd02-1af3-69da" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="6d0f-77c8-ffd6-9d88" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="08d4-4f8a-dcc5-8518" name="Malcador" hidden="false" collective="false" import="true" targetId="8bea-d67a-9c13-9f13" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="ecad-5d40-bda8-64e6" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="5306-9f76-32e8-02fa" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="67ee-134a-f187-67e7" name="Malcador Annihilator" hidden="false" collective="false" import="true" targetId="8981-3687-4864-f6f2" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="75e8-aac1-f800-5134" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="924d-f6ea-b9ac-c30a" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="924c-0d46-662b-9ed1" name="Malcador Defender" hidden="false" collective="false" import="true" targetId="2313-ab68-8a74-9e62" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="96db-1d85-17e3-6a9f" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="5870-eab1-c016-c8b8" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="6664-95da-4086-c34a" name="Malcador Infernus" hidden="false" collective="false" import="true" targetId="54bc-83df-4ddb-a15a" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="4532-96d0-760a-9fa9" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="dd8c-6668-1525-f962" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="c01a-d52c-15e9-27d8" name="Marauder Bomber" hidden="false" collective="false" import="true" targetId="c431-a7bd-2322-1219" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="a99e-f6b2-110d-9f3f" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="270d-3da4-2ec6-17fb" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="3e1a-eca4-d920-c57d" name="Marauder Destroyer" hidden="false" collective="false" import="true" targetId="fa5e-be73-98d3-b3ef" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="e14a-efd5-fbb9-22a3" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="2013-7174-9d59-f009" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="ceae-30d3-a10f-8a5a" name="Medusa Carriage Battery" hidden="false" collective="false" import="true" targetId="67f1-c27a-5657-20ad" type="selectionEntry">
@@ -385,7 +385,7 @@
     </entryLink>
     <entryLink id="a013-4107-9f6c-a9c9" name="Praetor" hidden="false" collective="false" import="true" targetId="59c2-ea1e-5e9f-34df" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="cb56-5a32-0a17-30f6" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="88e0-0b8d-b9ef-bed0" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="acd4-f40d-0393-b23b" name="Rapier Laser Destroyer Battery" hidden="false" collective="false" import="true" targetId="16dc-1243-0d8f-a541" type="selectionEntry">
@@ -395,7 +395,7 @@
     </entryLink>
     <entryLink id="43db-99ef-0e5a-6e6f" name="Stormblade" hidden="false" collective="false" import="true" targetId="c916-05fd-0269-0e84" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="496b-aad7-0fbc-f56b" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="fd82-018a-d30b-0b5d" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="6e78-9078-7c73-e8a2" name="Tarantula Battery" hidden="false" collective="false" import="true" targetId="1773-bb37-aa4a-7556" type="selectionEntry">
@@ -405,17 +405,17 @@
     </entryLink>
     <entryLink id="9a26-78d7-ec7d-1d44" name="Thunderbolt Heavy Fighter" hidden="false" collective="false" import="true" targetId="a071-90c8-a32e-8a32" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="651e-8032-8b5c-0bec" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="bf61-8a34-22e1-56b3" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="2953-df92-7fbf-01c7" name="Trojan Support Vehicle" hidden="false" collective="false" import="true" targetId="bf42-b1c2-d155-8107" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="33e4-2d9f-d80b-4fc5" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="1564-e1e1-f13d-37b3" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="9341-01c7-97a7-d972" name="Valdor" hidden="false" collective="false" import="true" targetId="42b8-6cec-0995-7236" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="aaa8-9eaf-32ae-cff4" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="237c-7260-5ec8-4551" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="28b0-b350-e244-686f" name="Voss-pattern Lightning" hidden="false" collective="false" import="true" targetId="54d9-c1f9-6216-f7a0" type="selectionEntry">
@@ -425,22 +425,22 @@
     </entryLink>
     <entryLink id="de13-ad83-7bb1-51f1" name="Vulture Gunship" hidden="false" collective="false" import="true" targetId="b7e0-d8ed-03ce-9edf" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="cf73-15b8-a497-22dd" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="53f5-162d-6ec8-ae94" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="2e91-ad9b-8dab-dcb6" name="Avenger Strike Fighter" hidden="false" collective="false" import="true" targetId="ff6c-bc4b-a17c-4d31" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="d789-e3f2-41e7-ea2a" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="175a-577d-5e43-0c72" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="21b3-7951-c7e8-e675" name="Carnodon" hidden="false" collective="false" import="true" targetId="be5e-9355-db6e-0e7f" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="4406-147d-1b3f-dc07" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="22b2-2600-91b6-1bc5" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="29d9-d732-3f48-0dfe" name="Colossus" hidden="false" collective="false" import="true" targetId="596d-7bc0-a6cd-e46c" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="9e6f-6b22-4fce-3d91" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="ea52-e307-00bf-8466" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="38bc-c413-9df0-02d2" name="Crassus" hidden="false" collective="false" import="true" targetId="66e0-d744-a2bb-5579" type="selectionEntry">
@@ -450,7 +450,7 @@
     </entryLink>
     <entryLink id="624f-2ed3-2efc-9233" name="Cyclops Demolition Vehicle" hidden="false" collective="false" import="true" targetId="9ca3-0bcf-3c12-1f05" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="21c7-6519-5bca-254e" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="d023-8372-5b63-901d" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="62e7-8ca3-c432-f316" name="Death Korps Marshal" hidden="false" collective="false" import="true" targetId="269b-2f8f-dcbb-5f5e" type="selectionEntry">
@@ -476,6 +476,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="c8cb-b648-a5c3-b767" name="Attilan Rough Riders" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
       <selectionEntries>
@@ -488,6 +491,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="9a46-d82a-de75-e7da" name="Baneblade" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <costs>
@@ -531,6 +537,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="ed75-2d30-f8c5-313f" name="Catachan Jungle Fighters" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
       <selectionEntries>
@@ -543,6 +552,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="2b84-8124-471d-cec5" name="Chimera" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <costs>
@@ -568,6 +580,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="af40-0249-eebe-6ee1" name="Deathstrike" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <costs>
@@ -639,6 +654,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="72b1-1c11-ca8e-bda1" name="Ogryn Bodyguard" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <costs>
@@ -723,6 +741,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="def5-b3a4-9f52-2492" name="Sergeant Harker" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <constraints>
@@ -792,6 +813,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="508d-733c-6398-610f" name="Ursula Creed" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <constraints>
@@ -812,6 +836,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="1667-d559-943e-85fa" name="‘Iron Hand’ Straken" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <constraints>
@@ -832,6 +859,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="4821-6de9-ada4-5d43" name="Kasrkin" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <costs>
@@ -922,6 +952,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="6085-37a4-de6a-9421" name="Death Rider Squadron Commander" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
@@ -1007,6 +1040,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="c916-05fd-0269-0e84" name="Stormblade" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <costs>
@@ -1024,6 +1060,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="a071-90c8-a32e-8a32" name="Thunderbolt Heavy Fighter" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <costs>

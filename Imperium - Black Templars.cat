@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="e654-54f8-4608-60ba" name="Imperium - Adeptus Astartes" revision="1" battleScribeVersion="2.03" authorName="Mike Oke" library="false" gameSystemId="a8f6-dd2e-ea3b-1511" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="0760-ab0b-cb78-b78b" name="Imperium - Black Templars" revision="1" battleScribeVersion="2.03" authorName="Mike Oke" library="false" gameSystemId="a8f6-dd2e-ea3b-1511" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entryLinks>
-    <entryLink id="acb0-b18a-f77a-62e9" name="Adrax Agatone" hidden="false" collective="false" import="true" targetId="c342-8f61-887a-0953" type="selectionEntry">
-      <categoryLinks>
-        <categoryLink id="4f1a-cdfb-3458-49bd" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
-        <categoryLink id="9da9-af63-e149-3b17" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
-      </categoryLinks>
-    </entryLink>
     <entryLink id="56f7-2293-b864-b969" name="Aggressor Squad" hidden="false" collective="false" import="true" targetId="6cb3-662d-6479-7de9" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="d7f7-b2fb-de15-dab1" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
@@ -97,12 +91,6 @@
         <categoryLink id="80e1-f5d0-2d77-147c" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
       </categoryLinks>
     </entryLink>
-    <entryLink id="3a5c-2e60-f1d6-e87d" name="Captain Sicarius" hidden="false" collective="false" import="true" targetId="ae62-b876-4889-24a6" type="selectionEntry">
-      <categoryLinks>
-        <categoryLink id="c90c-f1ed-77dc-6ca9" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
-        <categoryLink id="2f52-2d24-fbdc-4614" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
-      </categoryLinks>
-    </entryLink>
     <entryLink id="0ba9-07f6-4950-1464" name="Captain with Jump Pack" hidden="false" collective="false" import="true" targetId="d1bf-457d-602a-4073" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="f00a-9367-b781-d39f" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
@@ -111,21 +99,6 @@
     <entryLink id="f431-53f7-738a-47a0" name="Hammerfall Bunker" hidden="false" collective="false" import="true" targetId="5c06-267d-9308-88d0" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="9e49-63fc-db62-dfc2" name="New CategoryLink" hidden="false" targetId="56a8-7143-031e-072a" primary="true"/>
-      </categoryLinks>
-    </entryLink>
-    <entryLink id="1c5b-8e74-8cc2-dd49" name="Gladiator Valiant" hidden="false" collective="false" import="true" targetId="578f-24a4-fcd9-b4ff" type="selectionEntry">
-      <categoryLinks>
-        <categoryLink id="2027-e956-0405-86b4" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
-      </categoryLinks>
-    </entryLink>
-    <entryLink id="4686-0650-2c37-bdb0" name="Gladiator Reaper" hidden="false" collective="false" import="true" targetId="a539-3902-1def-4929" type="selectionEntry">
-      <categoryLinks>
-        <categoryLink id="cc74-825c-9be9-45ed" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
-      </categoryLinks>
-    </entryLink>
-    <entryLink id="deba-57af-ae11-fd2c" name="Gladiator Lancer" hidden="false" collective="false" import="true" targetId="4b61-9bb9-1c80-0820" type="selectionEntry">
-      <categoryLinks>
-        <categoryLink id="4fad-22da-ff68-13ec" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="1d5e-a0c6-03ff-a0df" name="Firestrike Servo-turrets" hidden="false" collective="false" import="true" targetId="152c-8400-e39b-f5bc" type="selectionEntry">
@@ -168,12 +141,6 @@
         <categoryLink id="ffc0-2a59-9669-294c" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
-    <entryLink id="b415-1651-a23d-e18e" name="Darnath Lysander" hidden="false" collective="false" import="true" targetId="4063-1a86-b4bb-ee0b" type="selectionEntry">
-      <categoryLinks>
-        <categoryLink id="2b33-90ef-7a15-0083" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
-        <categoryLink id="5c63-8f71-0441-7834" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
-      </categoryLinks>
-    </entryLink>
     <entryLink id="279e-6e25-7551-a692" name="Contemptor Dreadnought" hidden="false" collective="false" import="true" targetId="8e4d-ee53-ef5b-bd38" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="be45-a27a-cda7-ddb8" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
@@ -182,12 +149,6 @@
     <entryLink id="40bc-b484-fc14-bc41" name="Command Squad" hidden="false" collective="false" import="true" targetId="955d-addf-4f61-2433" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="76f3-9db1-c7b8-27df" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
-      </categoryLinks>
-    </entryLink>
-    <entryLink id="48b2-c384-640c-613a" name="Chief Librarian Tigurius" hidden="false" collective="false" import="true" targetId="5e54-0a81-317a-54eb" type="selectionEntry">
-      <categoryLinks>
-        <categoryLink id="3e68-390a-d964-8d9c" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
-        <categoryLink id="813e-0b0e-2e84-f587" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="5f2f-5e04-1be8-9eb8" name="Chaplain with Jump Pack" hidden="false" collective="false" import="true" targetId="fdc2-ecbf-31b1-818d" type="selectionEntry">
@@ -203,12 +164,6 @@
     <entryLink id="05d0-ce02-7dd7-08be" name="Chaplain in Terminator Armour" hidden="false" collective="false" import="true" targetId="a2bb-f63a-adfd-c015" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="9726-30f1-ba6a-a4c4" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
-      </categoryLinks>
-    </entryLink>
-    <entryLink id="524e-ea42-0b51-b8df" name="Chaplain Cassius" hidden="false" collective="false" import="true" targetId="61d8-91e8-556a-f6d2" type="selectionEntry">
-      <categoryLinks>
-        <categoryLink id="83e9-d73c-58a7-da8a" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
-        <categoryLink id="5029-0777-c285-d922" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="bfe3-d759-104a-d358" name="Chaplain" hidden="false" collective="false" import="true" targetId="a540-b89f-72d7-b1b1" type="selectionEntry">
@@ -241,7 +196,7 @@
         <categoryLink id="4b24-c99a-74b4-fdb5" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
-    <entryLink id="fa9a-4ad7-c164-4511" name="Impulsor" hidden="false" collective="false" import="true" targetId="8f65-b24f-c50f-33b2" type="selectionEntry">
+    <entryLink id="fa9a-4ad7-c164-4511" name="Black Templars Impulsor" hidden="false" collective="false" import="true" targetId="8f65-b24f-c50f-33b2" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="4073-b48a-4335-8ded" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
       </categoryLinks>
@@ -281,12 +236,6 @@
         <categoryLink id="0ae6-2193-9dcc-090a" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
-    <entryLink id="5a02-fc0c-8fed-7090" name="Iron Father Feirros" hidden="false" collective="false" import="true" targetId="cd43-a371-4634-7160" type="selectionEntry">
-      <categoryLinks>
-        <categoryLink id="beae-6dc3-90be-1ae2" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
-        <categoryLink id="2b90-1d08-3b11-e3e6" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
-      </categoryLinks>
-    </entryLink>
     <entryLink id="8a4a-9548-a982-495c" name="Ironclad Dreadnought" hidden="false" collective="false" import="true" targetId="2746-8876-3903-d81c" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="9492-7b7c-a5d0-cbfa" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
@@ -295,18 +244,6 @@
     <entryLink id="04b0-cc54-b042-3360" name="Judiciar" hidden="false" collective="false" import="true" targetId="c062-a09c-8b10-fb52" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="7346-557f-9257-2886" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
-      </categoryLinks>
-    </entryLink>
-    <entryLink id="72f4-5241-5cbf-4551" name="Kayvaan Shrike" hidden="false" collective="false" import="true" targetId="a0e0-0b89-52f5-0c1b" type="selectionEntry">
-      <categoryLinks>
-        <categoryLink id="f511-6f47-fdd3-50cd" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
-        <categoryLink id="a68c-45b0-cdab-b4a4" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
-      </categoryLinks>
-    </entryLink>
-    <entryLink id="fe1a-eb84-29e9-8ca0" name="Kor’sarro Khan" hidden="false" collective="false" import="true" targetId="efae-066a-f932-2682" type="selectionEntry">
-      <categoryLinks>
-        <categoryLink id="1c5e-5c61-f79a-02b2" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
-        <categoryLink id="6ff1-86cc-af6b-7e28" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="ef18-e366-75b4-4beb" name="Land Raider" hidden="false" collective="false" import="true" targetId="ae18-d529-9f76-f810" type="selectionEntry">
@@ -344,26 +281,6 @@
         <categoryLink id="4632-6b2d-08f3-cd84" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
-    <entryLink id="db03-fad9-d00a-6e6b" name="Librarian" hidden="false" collective="false" import="true" targetId="4a2c-ac74-6359-b5f9" type="selectionEntry">
-      <categoryLinks>
-        <categoryLink id="80e8-e7e8-8fc9-5d48" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
-      </categoryLinks>
-    </entryLink>
-    <entryLink id="f224-4a5f-1c03-cbad" name="Librarian in Phobos Armour" hidden="false" collective="false" import="true" targetId="bc11-adcc-1372-2cdf" type="selectionEntry">
-      <categoryLinks>
-        <categoryLink id="15b7-7e30-7ed0-0010" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
-      </categoryLinks>
-    </entryLink>
-    <entryLink id="81a9-9284-acef-e8c7" name="Librarian in Terminator Armour" hidden="false" collective="false" import="true" targetId="7e62-8717-2754-506b" type="selectionEntry">
-      <categoryLinks>
-        <categoryLink id="fe5c-a959-25e3-ac7c" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
-      </categoryLinks>
-    </entryLink>
-    <entryLink id="27d1-1554-8908-d32a" name="Librarian with Jump Pack" hidden="false" collective="false" import="true" targetId="d370-41e7-3880-690f" type="selectionEntry">
-      <categoryLinks>
-        <categoryLink id="23ab-fff4-0231-8be5" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
-      </categoryLinks>
-    </entryLink>
     <entryLink id="31b0-bcf1-3486-40cf" name="Lieutenant" hidden="false" collective="false" import="true" targetId="bcec-e94b-7fc4-be69" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="f590-cba0-0fb2-a4d7" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
@@ -384,21 +301,9 @@
         <categoryLink id="06eb-2b97-3888-0fe3" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
       </categoryLinks>
     </entryLink>
-    <entryLink id="d09f-72cf-8eaf-e4f1" name="Marneus Calgar" hidden="false" collective="false" import="true" targetId="8a9e-089c-f7f4-8318" type="selectionEntry">
-      <categoryLinks>
-        <categoryLink id="2b71-fc62-8edf-7329" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
-        <categoryLink id="a41f-9bb3-d742-f423" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
-      </categoryLinks>
-    </entryLink>
     <entryLink id="b967-0200-e268-1369" name="Outrider Squad" hidden="false" collective="false" import="true" targetId="87cf-c8b3-33fa-bf51" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="df3f-f151-6c78-8671" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
-      </categoryLinks>
-    </entryLink>
-    <entryLink id="2902-0c8c-1f4b-23a5" name="Pedro Kantor" hidden="false" collective="false" import="true" targetId="0730-ed96-9322-2b0a" type="selectionEntry">
-      <categoryLinks>
-        <categoryLink id="0c72-fb3a-17e2-dcdd" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
-        <categoryLink id="51c7-8f1b-28d8-6495" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="bcb5-aee3-5787-9d40" name="Predator Annihilator" hidden="false" collective="false" import="true" targetId="aa4b-6dd9-9de2-8ac2" type="selectionEntry">
@@ -434,11 +339,6 @@
     <entryLink id="84ce-aba0-6cf3-9537" name="Primaris Company Champion" hidden="false" collective="false" import="true" targetId="bdf7-fdb8-4969-a4b8" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="b8c6-42fa-32a9-52c1" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
-      </categoryLinks>
-    </entryLink>
-    <entryLink id="f318-ac0a-b64f-4e50" name="Primaris Librarian" hidden="false" collective="false" import="true" targetId="ffb7-ad47-3624-ae93" type="selectionEntry">
-      <categoryLinks>
-        <categoryLink id="53b2-7b4b-9810-ff6f" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="2cb3-dcc5-2ac2-5c43" name="Primaris Lieutenant" hidden="false" collective="false" import="true" targetId="04e0-cdce-26df-2397" type="selectionEntry">
@@ -481,18 +381,6 @@
         <categoryLink id="6c83-9709-caad-d35d" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
-    <entryLink id="c6dc-eea3-7762-0b11" name="Sergeant Telion" hidden="false" collective="false" import="true" targetId="719b-1db8-1814-5d03" type="selectionEntry">
-      <categoryLinks>
-        <categoryLink id="1393-87e6-c162-5663" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
-        <categoryLink id="c160-b484-b3a8-1ddd" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
-      </categoryLinks>
-    </entryLink>
-    <entryLink id="bf5a-12d2-ea57-719e" name="Sergeant Chronus" hidden="false" collective="false" import="true" targetId="70e8-03fa-76cc-9c1d" type="selectionEntry">
-      <categoryLinks>
-        <categoryLink id="f1e4-e6cf-d446-2456" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
-        <categoryLink id="c037-03b5-d05d-fb98" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
-      </categoryLinks>
-    </entryLink>
     <entryLink id="56e1-142b-f736-e0bf" name="Scout Squad" hidden="false" collective="false" import="true" targetId="45bd-05d8-36db-9c2d" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="163a-90b8-9f4b-9fff" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
@@ -508,23 +396,17 @@
         <categoryLink id="c8da-47b1-c42b-aa21" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
-    <entryLink id="360b-6e98-1d60-bf68" name="Roboute Guilliman" hidden="false" collective="false" import="true" targetId="c960-3cbd-3d8b-a2f4" type="selectionEntry">
-      <categoryLinks>
-        <categoryLink id="d5e6-db24-cee3-286c" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
-        <categoryLink id="175c-0bff-2766-9d1f" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
-      </categoryLinks>
-    </entryLink>
     <entryLink id="cb87-1d08-8c99-0af8" name="Rhino" hidden="false" collective="false" import="true" targetId="ecef-8cbc-f98e-602d" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="6652-69d9-0abb-b513" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
       </categoryLinks>
     </entryLink>
-    <entryLink id="2bec-b134-05ed-1c70" name="Repulsor Executioner" hidden="false" collective="false" import="true" targetId="444c-fe77-fb6c-5b5e" type="selectionEntry">
+    <entryLink id="2bec-b134-05ed-1c70" name="Black Templars Repulsor Executioner" hidden="false" collective="false" import="true" targetId="444c-fe77-fb6c-5b5e" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="9775-13fc-b625-5b7d" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
       </categoryLinks>
     </entryLink>
-    <entryLink id="81b4-7a9d-8379-9cad" name="Repulsor" hidden="false" collective="false" import="true" targetId="a0c5-0192-038e-11ff" type="selectionEntry">
+    <entryLink id="81b4-7a9d-8379-9cad" name="Black Templars Repulsor" hidden="false" collective="false" import="true" targetId="a0c5-0192-038e-11ff" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="9b66-10f1-2ee8-c556" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
       </categoryLinks>
@@ -589,21 +471,9 @@
         <categoryLink id="f11d-383f-5448-61d0" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
       </categoryLinks>
     </entryLink>
-    <entryLink id="ec24-dd81-e0ef-890f" name="Tor Garadon" hidden="false" collective="false" import="true" targetId="eca1-12ee-93d0-9f71" type="selectionEntry">
-      <categoryLinks>
-        <categoryLink id="4b41-5df2-0c9e-dea0" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
-        <categoryLink id="0b58-e0e0-de9e-3b2f" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
-      </categoryLinks>
-    </entryLink>
     <entryLink id="c832-e165-e218-f75b" name="Tyrannic War Veterans" hidden="false" collective="false" import="true" targetId="356b-f18f-43b7-a46e" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="0af2-0cff-342d-acc2" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
-      </categoryLinks>
-    </entryLink>
-    <entryLink id="4cf3-f60a-51cf-ee9d" name="Uriel Ventris" hidden="false" collective="false" import="true" targetId="0aa3-1d99-8c7f-9928" type="selectionEntry">
-      <categoryLinks>
-        <categoryLink id="91f7-17bf-2552-a624" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
-        <categoryLink id="7a77-9cf9-3107-ea7b" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="fef2-fb93-22f0-4eec" name="Vanguard Veteran Squad" hidden="false" collective="false" import="true" targetId="e51a-8166-b792-67b6" type="selectionEntry">
@@ -619,12 +489,6 @@
     <entryLink id="9e7a-f75c-123f-55ac" name="Vindicator" hidden="false" collective="false" import="true" targetId="66d4-c833-9355-44f4" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="f6db-3a3e-2004-5a37" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
-      </categoryLinks>
-    </entryLink>
-    <entryLink id="6191-9335-6c74-0e68" name="Vulkan He’stan" hidden="false" collective="false" import="true" targetId="38d4-c7ce-033b-576a" type="selectionEntry">
-      <categoryLinks>
-        <categoryLink id="cc9f-8d28-9bb7-df0c" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
-        <categoryLink id="84d3-70af-c763-55dd" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="5f4f-f674-f6de-893a" name="Whirlwind" hidden="false" collective="false" import="true" targetId="10d2-e73b-f0e6-d72d" type="selectionEntry">
@@ -647,16 +511,71 @@
         <categoryLink id="444e-2abf-55f8-dc06" name="New CategoryLink" hidden="false" targetId="19b8-16e6-407b-cc4d" primary="true"/>
       </categoryLinks>
     </entryLink>
+    <entryLink id="8bc3-ee23-8e0b-892b" name="Templar Vows" hidden="false" collective="false" import="true" targetId="dd04-4ac3-aa24-2544" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6b8d-62cf-4d13-62da" name="New CategoryLink" hidden="false" targetId="19b8-16e6-407b-cc4d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="40d3-6f26-c5de-9184" name="Black Templars Gladiator Lancer" hidden="false" collective="false" import="true" targetId="bb42-da18-a97e-3e06" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b4c7-6ef7-e446-adf9" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a709-4982-ee7b-d215" name="Black Templars Gladiator Reaper" hidden="false" collective="false" import="true" targetId="b5a8-b519-2b01-a7d7" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3b65-ea6a-9094-ea1b" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5605-35b9-7d03-a46a" name="Black Templars Gladiator Valiant" hidden="false" collective="false" import="true" targetId="0be6-762a-02ce-fbf3" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="76f5-2077-6af5-2eb6" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d659-35cd-af62-ad48" name="Castellan" hidden="false" collective="false" import="true" targetId="bdc8-2a73-0996-55ee" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5c9d-25ae-8df2-40f8" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0c25-d1d9-5d2c-af1d" name="Crusader Squad" hidden="false" collective="false" import="true" targetId="df19-1cb0-c4e0-0c52" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1044-547a-0abd-14da" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0a04-f73f-a189-6e82" name="High Marshal Helbrecht" hidden="false" collective="false" import="true" targetId="625a-d479-61bd-269b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5401-78eb-7192-2513" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="010d-87ba-0a52-a17c" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a491-1e09-5889-64b9" name="Marshal" hidden="false" collective="false" import="true" targetId="50ae-c7b5-8a34-152e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="61aa-31b3-d32d-097d" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="36f6-55cd-3d8c-1aed" name="Primaris Crusader Squad" hidden="false" collective="false" import="true" targetId="8404-de5f-d36a-704a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b0b7-2779-9c36-467f" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c902-4389-6309-b0fe" name="Primaris Sword Brethren" hidden="false" collective="false" import="true" targetId="dccb-603c-e82e-c0ea" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c8c3-0940-7184-a107" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9252-def7-0052-be2c" name="The Emperor’s Champion" hidden="false" collective="false" import="true" targetId="8d84-0c37-6dcb-ba6a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="cd80-f542-992b-734b" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="00bd-7b3d-35ae-bf2a" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="712d-efc8-77ec-dddb" name="Chaplain Grimaldus" hidden="false" collective="false" import="true" targetId="06ab-e3ae-493f-0b6b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="95ed-a334-88ce-b09e" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+        <categoryLink id="f874-2156-f859-89b3" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+      </categoryLinks>
+    </entryLink>
   </entryLinks>
   <sharedSelectionEntries>
-    <selectionEntry id="c342-8f61-887a-0953" name="Adrax Agatone" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <constraints>
-        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="eaa9-32cf-4956-6c5c" type="max"/>
-      </constraints>
-      <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
-      </costs>
-    </selectionEntry>
     <selectionEntry id="6cb3-662d-6479-7de9" name="Aggressor Squad" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
       <selectionEntries>
         <selectionEntry id="b018-677b-4fd3-a4c5" name="3 Aggressors" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
@@ -673,13 +592,16 @@
       </costs>
     </selectionEntry>
     <selectionEntry id="0605-a494-1ffc-e551" name="Ancient in Terminator Armour" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="d9b8-2d8b-960c-55cd" name="Righteous Crusaders" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+      </entryLinks>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="90.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="bd15-a579-960d-b98b" name="Apothecary Biologis" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
-        <entryLink id="3066-3bc9-df6d-6a9c" name="Gladius Task Force" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+        <entryLink id="3066-3bc9-df6d-6a9c" name="Righteous Crusaders" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="55.0"/>
@@ -779,6 +701,9 @@
       </costs>
     </selectionEntry>
     <selectionEntry id="b4d6-85b5-96ea-26e8" name="Bladeguard Ancient" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="4840-9960-3a8e-a362" name="Righteous Crusaders" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+      </entryLinks>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="50.0"/>
       </costs>
@@ -804,13 +729,16 @@
       </costs>
     </selectionEntry>
     <selectionEntry id="393f-59e1-be42-f543" name="Captain" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="7281-818e-d88d-8e3f" name="Righteous Crusaders" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+      </entryLinks>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="1627-99ab-888d-fcf1" name="Captain in Gravis Armour" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
-        <entryLink id="941f-5fdc-331d-71b6" name="Gladius Task Force" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+        <entryLink id="941f-5fdc-331d-71b6" name="Righteous Crusaders" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
@@ -818,7 +746,7 @@
     </selectionEntry>
     <selectionEntry id="fe09-a509-7e2d-97bd" name="Captain in Phobos Armour" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
-        <entryLink id="903e-211d-1299-88e2" name="Gladius Task Force" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+        <entryLink id="903e-211d-1299-88e2" name="Righteous Crusaders" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
@@ -826,7 +754,7 @@
     </selectionEntry>
     <selectionEntry id="0fd7-b224-3796-56f9" name="Captain in Terminator Armour" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
-        <entryLink id="5b54-afd1-6a0f-0e75" name="Gladius Task Force" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+        <entryLink id="5b54-afd1-6a0f-0e75" name="Righteous Crusaders" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
@@ -834,23 +762,15 @@
     </selectionEntry>
     <selectionEntry id="4b8a-d346-f990-1bcd" name="Captain on Bike" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
-        <entryLink id="a29c-2594-51b0-4679" name="Gladius Task Force" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+        <entryLink id="a29c-2594-51b0-4679" name="Righteous Crusaders" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
       </entryLinks>
-      <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
-      </costs>
-    </selectionEntry>
-    <selectionEntry id="ae62-b876-4889-24a6" name="Captain Sicarius" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <constraints>
-        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cf8f-c682-4aee-d7b8" type="max"/>
-      </constraints>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="d1bf-457d-602a-4073" name="Captain with Jump Pack" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
-        <entryLink id="5d0d-6026-9f45-fa7d" name="Gladius Task Force" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+        <entryLink id="5d0d-6026-9f45-fa7d" name="Righteous Crusaders" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="100.0"/>
@@ -888,23 +808,15 @@
     </selectionEntry>
     <selectionEntry id="a540-b89f-72d7-b1b1" name="Chaplain" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
-        <entryLink id="f397-a48c-d4db-2439" name="Gladius Task Force" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+        <entryLink id="f397-a48c-d4db-2439" name="Righteous Crusaders" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="61d8-91e8-556a-f6d2" name="Chaplain Cassius" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <constraints>
-        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7afb-5740-73a2-40bd" type="max"/>
-      </constraints>
-      <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
-      </costs>
-    </selectionEntry>
     <selectionEntry id="a2bb-f63a-adfd-c015" name="Chaplain in Terminator Armour" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
-        <entryLink id="71d1-d135-a7c4-54b7" name="Gladius Task Force" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+        <entryLink id="3c13-fa98-1221-0259" name="Righteous Crusaders" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="90.0"/>
@@ -926,14 +838,6 @@
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="5e54-0a81-317a-54eb" name="Chief Librarian Tigurius" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <constraints>
-        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2190-562f-0177-f02b" type="max"/>
-      </constraints>
-      <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
-      </costs>
-    </selectionEntry>
     <selectionEntry id="955d-addf-4f61-2433" name="Command Squad" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="165.0"/>
@@ -942,14 +846,6 @@
     <selectionEntry id="8e4d-ee53-ef5b-bd38" name="Contemptor Dreadnought" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="170.0"/>
-      </costs>
-    </selectionEntry>
-    <selectionEntry id="4063-1a86-b4bb-ee0b" name="Darnath Lysander" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <constraints>
-        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5a14-6255-8815-b1fb" type="max"/>
-      </constraints>
-      <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="115.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="9e92-4404-2c98-0348" name="Desolation Squad" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
@@ -1022,21 +918,6 @@
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="4b61-9bb9-1c80-0820" name="Gladiator Lancer" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="145.0"/>
-      </costs>
-    </selectionEntry>
-    <selectionEntry id="a539-3902-1def-4929" name="Gladiator Reaper" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="155.0"/>
-      </costs>
-    </selectionEntry>
-    <selectionEntry id="578f-24a4-fcd9-b4ff" name="Gladiator Valiant" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="155.0"/>
-      </costs>
-    </selectionEntry>
     <selectionEntry id="5c06-267d-9308-88d0" name="Hammerfall Bunker" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="210.0"/>
@@ -1077,9 +958,9 @@
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="100.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="8f65-b24f-c50f-33b2" name="Impulsor" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+    <selectionEntry id="8f65-b24f-c50f-33b2" name="Black Templars Impulsor" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="115.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="0d5a-e494-c2a4-2828" name="Inceptor Squad" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
@@ -1167,14 +1048,6 @@
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="160.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="cd43-a371-4634-7160" name="Iron Father Feirros" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <constraints>
-        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0939-7363-15f5-25ca" type="max"/>
-      </constraints>
-      <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="105.0"/>
-      </costs>
-    </selectionEntry>
     <selectionEntry id="2746-8876-3903-d81c" name="Ironclad Dreadnought" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="150.0"/>
@@ -1186,22 +1059,6 @@
       </entryLinks>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
-      </costs>
-    </selectionEntry>
-    <selectionEntry id="a0e0-0b89-52f5-0c1b" name="Kayvaan Shrike" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <constraints>
-        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e5cd-0842-2ea5-bdf1" type="max"/>
-      </constraints>
-      <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="110.0"/>
-      </costs>
-    </selectionEntry>
-    <selectionEntry id="efae-066a-f932-2682" name="Kor’sarro Khan" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <constraints>
-        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cfb3-4a0b-9386-9438" type="max"/>
-      </constraints>
-      <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="ae18-d529-9f76-f810" name="Land Raider" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
@@ -1239,38 +1096,6 @@
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="100.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="4a2c-ac74-6359-b5f9" name="Librarian" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <entryLinks>
-        <entryLink id="e293-8886-2f05-a53b" name="Gladius Task Force" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
-      </entryLinks>
-      <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
-      </costs>
-    </selectionEntry>
-    <selectionEntry id="7e62-8717-2754-506b" name="Librarian in Terminator Armour" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <entryLinks>
-        <entryLink id="ee66-da2f-3331-0cdf" name="Gladius Task Force" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
-      </entryLinks>
-      <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="90.0"/>
-      </costs>
-    </selectionEntry>
-    <selectionEntry id="bc11-adcc-1372-2cdf" name="Librarian in Phobos Armour" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <entryLinks>
-        <entryLink id="30f8-257a-ce35-d0b5" name="Gladius Task Force" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
-      </entryLinks>
-      <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
-      </costs>
-    </selectionEntry>
-    <selectionEntry id="d370-41e7-3880-690f" name="Librarian with Jump Pack" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <entryLinks>
-        <entryLink id="2f8f-3d8e-860b-2347" name="Gladius Task Force" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
-      </entryLinks>
-      <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
-      </costs>
-    </selectionEntry>
     <selectionEntry id="bcec-e94b-7fc4-be69" name="Lieutenant" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
         <entryLink id="3f75-802c-0e72-2739" name="Gladius Task Force" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
@@ -1303,14 +1128,6 @@
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="60.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="8a9e-089c-f7f4-8318" name="Marneus Calgar" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <constraints>
-        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9fcc-d1fd-be2a-af68" type="max"/>
-      </constraints>
-      <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="205.0"/>
-      </costs>
-    </selectionEntry>
     <selectionEntry id="87cf-c8b3-33fa-bf51" name="Outrider Squad" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
       <selectionEntries>
         <selectionEntry id="7521-43fd-cea7-118e" name="3 Outriders" hidden="false" collective="false" import="true" type="model">
@@ -1332,14 +1149,6 @@
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
-      </costs>
-    </selectionEntry>
-    <selectionEntry id="0730-ed96-9322-2b0a" name="Pedro Kantor" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <constraints>
-        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="102b-1c59-51a3-a70b" type="max"/>
-      </constraints>
-      <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="100.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="aa4b-6dd9-9de2-8ac2" name="Predator Annihilator" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
@@ -1390,14 +1199,6 @@
       </entryLinks>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="55.0"/>
-      </costs>
-    </selectionEntry>
-    <selectionEntry id="ffb7-ad47-3624-ae93" name="Primaris Librarian" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <entryLinks>
-        <entryLink id="152b-bf49-c010-911a" name="Gladius Task Force" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
-      </entryLinks>
-      <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="04e0-cdce-26df-2397" name="Primaris Lieutenant" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
@@ -1456,27 +1257,19 @@
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="a0c5-0192-038e-11ff" name="Repulsor" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+    <selectionEntry id="a0c5-0192-038e-11ff" name="Black Templars Repulsor" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="195.0"/>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="220.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="444c-fe77-fb6c-5b5e" name="Repulsor Executioner" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+    <selectionEntry id="444c-fe77-fb6c-5b5e" name="Black Templars Repulsor Executioner" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="230.0"/>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="245.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="ecef-8cbc-f98e-602d" name="Rhino" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
-      </costs>
-    </selectionEntry>
-    <selectionEntry id="c960-3cbd-3d8b-a2f4" name="Roboute Guilliman" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <constraints>
-        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1011-f043-3cc0-2539" type="max"/>
-      </constraints>
-      <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="355.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="5038-da5d-31e0-bc03" name="Scout Bike Squad" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
@@ -1522,22 +1315,6 @@
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
-      </costs>
-    </selectionEntry>
-    <selectionEntry id="70e8-03fa-76cc-9c1d" name="Sergeant Chronus" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <constraints>
-        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="fcd8-cf7b-7e28-8354" type="max"/>
-      </constraints>
-      <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
-      </costs>
-    </selectionEntry>
-    <selectionEntry id="719b-1db8-1814-5d03" name="Sergeant Telion" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <constraints>
-        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="689c-0254-578e-09b5" type="max"/>
-      </constraints>
-      <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="ff5f-6ab5-9956-5975" name="Stalker" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
@@ -1643,23 +1420,7 @@
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="90.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="eca1-12ee-93d0-9f71" name="Tor Garadon" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <constraints>
-        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ca93-ff25-644e-9b01" type="max"/>
-      </constraints>
-      <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="100.0"/>
-      </costs>
-    </selectionEntry>
     <selectionEntry id="356b-f18f-43b7-a46e" name="Tyrannic War Veterans" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
-      </costs>
-    </selectionEntry>
-    <selectionEntry id="0aa3-1d99-8c7f-9928" name="Uriel Ventris" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <constraints>
-        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="55c6-3502-ae98-4e49" type="max"/>
-      </constraints>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
       </costs>
@@ -1699,14 +1460,6 @@
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="205.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="38d4-c7ce-033b-576a" name="Vulkan He’stan" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <constraints>
-        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c95c-d2f9-faef-7c02" type="max"/>
-      </constraints>
-      <costs>
-        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
-      </costs>
-    </selectionEntry>
     <selectionEntry id="10d2-e73b-f0e6-d72d" name="Whirlwind" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="150.0"/>
@@ -1722,48 +1475,211 @@
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="840.0"/>
       </costs>
     </selectionEntry>
+    <selectionEntry id="dd04-4ac3-aa24-2544" name="Templar Vows" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+      <entryLinks>
+        <entryLink id="a47d-4ec7-7e24-8f38" name="Templar Vows" hidden="false" collective="false" import="true" targetId="6b5a-5aab-20cc-1499" type="selectionEntryGroup"/>
+      </entryLinks>
+    </selectionEntry>
+    <selectionEntry id="bb42-da18-a97e-3e06" name="Black Templars Gladiator Lancer" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="160.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b5a8-b519-2b01-a7d7" name="Black Templars Gladiator Reaper" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="175.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0be6-762a-02ce-fbf3" name="Black Templars Gladiator Valiant" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="180.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="bdc8-2a73-0996-55ee" name="Castellan" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="c92c-cebe-406f-b26d" name="Righteous Crusaders" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="df19-1cb0-c4e0-0c52" name="Crusader Squad" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="f37c-220b-e597-dee6" name="1 Sword Brother and 4 Initiates" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f760-8967-cd16-9778" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="4596-8a66-5a92-0bc1" name="1 Sword Brother and 9 Initiates" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="512c-3c8d-40e5-ee56" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="145.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="fbba-0782-709f-4b4e" name="1 Sword Brother, 4 Initiates and 5 Neophytes" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="aebd-2425-4aad-3885" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="145.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="c1c0-3b87-70ff-df0f" name="1 Sword Brother, 9 Initiates and 10 Neophytes" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="92bd-a428-c166-775e" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="290.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntry>
+    <selectionEntry id="625a-d479-61bd-269b" name="High Marshal Helbrecht" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="79a5-f715-0bf8-80af" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="105.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="50ae-c7b5-8a34-152e" name="Marshal" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="9a24-b0df-bddd-8b58" name="Righteous Crusaders" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8404-de5f-d36a-704a" name="Primaris Crusader Squad" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="d73d-c40e-4cad-bf7a" name="1 Sword Brother, 5 Initiates and 4 Neophytes" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="68f7-fee3-92be-9781" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="160.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="3b82-332b-38aa-741b" name="1 Sword Brother, 11 Initiates and 8 Neophytes" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e531-e594-bce6-276d" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="320.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntry>
+    <selectionEntry id="dccb-603c-e82e-c0ea" name="Primaris Sword Brethren" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="23fa-133d-a42f-c5f5" name="5 Primaris Sword Brethren" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="055e-8639-2966-dcd5" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="165.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="5751-557e-e894-5e2e" name="10 Primaris Sword Brethren" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="aa2a-495d-8627-5816" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="320.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntry>
+    <selectionEntry id="8d84-0c37-6dcb-ba6a" name="The Emperor’s Champion" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="41ce-98ff-348f-f043" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="06ab-e3ae-493f-0b6b" name="Chaplain Grimaldus" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1ddd-4eb2-4efe-ea72" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="120.0"/>
+      </costs>
+    </selectionEntry>
   </sharedSelectionEntries>
   <sharedSelectionEntryGroups>
-    <selectionEntryGroup id="fbe7-9e27-0923-d0ce" name="Gladius Task Force" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true">
+    <selectionEntryGroup id="fbe7-9e27-0923-d0ce" name="Righteous Crusaders" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true">
       <constraints>
         <constraint field="selections" scope="roster" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="030a-6b71-c4ad-95d7" type="max"/>
       </constraints>
       <selectionEntries>
-        <selectionEntry id="d077-eeb4-9780-47be" name="Adept of the Codex" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="d077-eeb4-9780-47be" name="Perdition’s Edge" hidden="false" collective="false" import="true" type="upgrade">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4175-96e3-6968-7213" type="max"/>
             <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1361-4c94-d6de-031f" type="max"/>
           </constraints>
           <costs>
-            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="20.0"/>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="15.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="22ca-9390-3881-c4e5" name="Artificer Armour" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="22ca-9390-3881-c4e5" name="Sigismund’s Seal" hidden="false" collective="false" import="true" type="upgrade">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5572-3d68-2830-04cc" type="max"/>
             <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8591-13cd-2b82-fb3a" type="max"/>
           </constraints>
           <costs>
-            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="10.0"/>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="20.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="90c8-0b88-e5b1-c860" name="Bolter Discipline" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="90c8-0b88-e5b1-c860" name="Tännhauser’s Bones" hidden="false" collective="false" import="true" type="upgrade">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="fe19-4dc6-7f1f-5b80" type="max"/>
             <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="41a9-e005-a3f8-bca2" type="max"/>
           </constraints>
           <costs>
-            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="25.0"/>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="35.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="7974-4dfa-e39d-d163" name="The Honour Vehement" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="7974-4dfa-e39d-d163" name="Witchseeker Bolts" hidden="false" collective="false" import="true" type="upgrade">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e3f5-9aa3-9f0b-0b8f" type="max"/>
             <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="19b5-84d1-6acd-a885" type="max"/>
           </constraints>
           <costs>
-            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="15.0"/>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="10.0"/>
           </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntryGroup>
+    <selectionEntryGroup id="6b5a-5aab-20cc-1499" name="Templar Vows" hidden="false" collective="false" import="true">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="237f-fce2-3ed5-c8d6" type="max"/>
+      </constraints>
+      <selectionEntries>
+        <selectionEntry id="3208-aad4-8756-2feb" name="Suffer Not the Unclean to Live" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="acc7-8dee-bb07-54e1" type="max"/>
+          </constraints>
+        </selectionEntry>
+        <selectionEntry id="00c6-a347-29a0-70e9" name="Uphold the Honour of the Emperor" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4511-ffab-9c85-3d0c" type="max"/>
+          </constraints>
+        </selectionEntry>
+        <selectionEntry id="4d93-e885-583d-4a89" name="Abhor the Witch, Destroy the Witch" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="db4f-7b5d-d40e-d454" type="max"/>
+          </constraints>
+        </selectionEntry>
+        <selectionEntry id="663f-7598-874c-399a" name="Accept Any Challenge, No Matter the Odds" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2c7e-b815-2a12-7de1" type="max"/>
+          </constraints>
         </selectionEntry>
       </selectionEntries>
     </selectionEntryGroup>

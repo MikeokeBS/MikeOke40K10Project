@@ -3,12 +3,12 @@
   <entryLinks>
     <entryLink id="c57e-43d9-0dd0-7aa9" name="Chaos Acastus Knight Asterius" hidden="false" collective="false" import="true" targetId="6502-098b-f373-e456" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="b72e-958d-dbd0-9fac" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="c240-f5f7-bafc-697a" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="caf1-72cc-cc08-5118" name="Chaos Acastus Knight Porphyrion" hidden="false" collective="false" import="true" targetId="4246-8684-d8b7-f1b5" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="9832-8439-ba88-cf6e" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="1888-05eb-b498-3861" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="3b6b-f98a-86a1-43ec" name="Chaos Cerastus Knight Acheron" hidden="false" collective="false" import="true" targetId="997b-dcc9-ccd5-2d32" type="selectionEntry">

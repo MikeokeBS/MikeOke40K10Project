@@ -59,12 +59,12 @@
     </entryLink>
     <entryLink id="0605-ea2e-1a23-239b" name="Death Guard Cultists" hidden="false" collective="false" import="true" targetId="9f17-c0f2-3b10-5b67" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="d102-572e-be37-fad5" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="6795-ab0d-eb84-c54b" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="a804-dbeb-5574-da7c" name="Poxwalkers" hidden="false" collective="false" import="true" targetId="ce54-ed52-b11c-5d42" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="607d-584b-f278-22ef" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="b0fc-2c42-e0de-3097" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="4dc2-d754-c831-ed41" name="Noxious Blightbringer" hidden="false" collective="false" import="true" targetId="aa7c-dd68-482a-bdc1" type="selectionEntry">
@@ -94,37 +94,37 @@
     </entryLink>
     <entryLink id="f6ea-5d1f-196d-f0a3" name="Blightlord Terminators" hidden="false" collective="false" import="true" targetId="90d0-2002-4bb6-5400" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="bf31-f2b2-f45f-9c93" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="02a4-c980-6917-ff28" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="8d18-75e3-eee8-2f51" name="Deathshroud Terminators" hidden="false" collective="false" import="true" targetId="7829-4dc2-6077-1f74" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="cdb9-e409-9e55-eec3" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="0d68-bce7-7a52-2686" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="4914-263b-ce11-2828" name="Death Guard Helbrute" hidden="false" collective="false" import="true" targetId="1953-aba3-a66c-0f0b" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="87f4-5f45-bde0-c556" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="914a-63a0-95f8-c3e4" name="Vehicle" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="false"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="7407-9e44-faa1-34b9" name="Death Guard Chaos Spawn" hidden="false" collective="false" import="true" targetId="ea7a-4c19-8e59-26e9" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="b492-5fb3-c454-b6ea" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="ac82-0d3b-60b8-a5e0" name="New CategoryLink" hidden="false" targetId="2c1a-e7d4-3c6b-dbc3" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="cc83-7616-b34e-4b3f" name="Myphitic Blight-Haulers" hidden="false" collective="false" import="true" targetId="a87d-e997-bf92-60e9" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="e9e0-7196-4815-eb1d" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="e718-5d37-463c-594c" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="b754-21cb-cc15-3364" name="Foetid Bloat-Drone" hidden="false" collective="false" import="true" targetId="28a4-dfd6-2a1e-54e3" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="e69b-423b-0f02-00f3" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="239d-cd93-b19a-504d" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="ea8a-27cd-2be1-72c8" name="Plagueburst Crawler" hidden="false" collective="false" import="true" targetId="a6ec-0a90-107a-410d" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="c94a-6ec0-4b7a-9e5a" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="a386-9005-132c-a65d" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="af87-3d17-e68f-832d" name="Death Guard Land Raider" hidden="false" collective="false" import="true" targetId="186b-798e-abfa-4fa3" type="selectionEntry">
@@ -134,17 +134,17 @@
     </entryLink>
     <entryLink id="fceb-5a84-0a95-8563" name="Death Guard Predator Annihilator" hidden="false" collective="false" import="true" targetId="f770-6f77-de7c-3c3f" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="d2f7-e520-1861-475e" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="b3f0-49f8-0acc-9a1f" name="Vehicle" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="15aa-756a-1fc4-2d45" name="Death Guard Predator Destructor" hidden="false" collective="false" import="true" targetId="d90b-97b1-6628-34d5" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="4aec-2a1c-bb9f-55ba" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="8cbc-f89f-5b1d-1043" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="0ea2-c521-c300-146e" name="Death Guard Defiler" hidden="false" collective="false" import="true" targetId="86b5-1924-775c-2e93" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="104f-59ca-97c0-e09b" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+        <categoryLink id="25a6-08af-f687-df3a" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="987d-661c-c0c5-fa79" name="Death Guard Rhino" hidden="false" collective="false" import="true" targetId="1837-9480-1df7-d23c" type="selectionEntry">
