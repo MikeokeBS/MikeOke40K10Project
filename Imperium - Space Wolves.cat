@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="c790-8f62-e741-f440" name="Imperium - Space Wolves" revision="1" battleScribeVersion="2.03" authorName="Mike Oke" library="false" gameSystemId="a8f6-dd2e-ea3b-1511" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="c790-8f62-e741-f440" name="Imperium - Space Wolves" revision="2" battleScribeVersion="2.03" authorName="Mike Oke" library="false" gameSystemId="a8f6-dd2e-ea3b-1511" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <categoryEntries>
     <categoryEntry id="3621-09db-988b-d84a" name="Logan" hidden="false">
       <constraints>
@@ -1604,17 +1604,11 @@
       </costs>
     </selectionEntry>
     <selectionEntry id="45c4-0917-3479-6a95" name="Arjac Rockfist" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <constraints>
-        <constraint field="selections" scope="roster" value="-1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d1a3-09a0-6d62-029a" type="max"/>
-      </constraints>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="105.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="a32f-cf61-28a8-806b" name="Bjorn the Fell-Handed" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <constraints>
-        <constraint field="selections" scope="roster" value="-1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="65bb-7e87-dee2-3965" type="max"/>
-      </constraints>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="220.0"/>
       </costs>
@@ -1638,6 +1632,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="454f-7334-414b-a154" name="Canis Wolfborn" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
@@ -1666,6 +1663,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="01b4-2092-68de-8cd6" name="Grey Hunters" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
       <selectionEntries>
@@ -1678,35 +1678,26 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="0db5-d2e6-ccb8-b6c4" name="Harald Deathwolf" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <constraints>
-        <constraint field="selections" scope="roster" value="-1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6a81-627e-0b8a-215a" type="max"/>
-      </constraints>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="5353-7447-a11c-a232" name="Krom Dragongaze" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <constraints>
-        <constraint field="selections" scope="roster" value="-1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b349-92b3-8d2e-207b" type="max"/>
-      </constraints>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="6689-d477-cfd8-c639" name="Logan Grimnar" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <constraints>
-        <constraint field="selections" scope="roster" value="-1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c9c2-db5f-2934-7eec" type="max"/>
-      </constraints>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="145.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="11f9-b889-d838-3b3d" name="Logan Grimnar on Stormrider" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <constraints>
-        <constraint field="selections" scope="roster" value="-1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="86bd-26cf-3947-2337" type="max"/>
-      </constraints>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="235.0"/>
       </costs>
@@ -1730,19 +1721,16 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="e003-dd53-0271-c8ee" name="Lukas the Trickster" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <constraints>
-        <constraint field="selections" scope="roster" value="-1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="57cd-af52-ca6f-4f6a" type="max"/>
-      </constraints>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="55.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="4387-41d2-697c-296b" name="Njal Stormcaller" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <constraints>
-        <constraint field="selections" scope="roster" value="-1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1879-3738-c29f-dbce" type="max"/>
-      </constraints>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
       </costs>
@@ -1758,6 +1746,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="e577-34e7-b908-2151" name="Stormfang Gunship" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <costs>
@@ -1780,11 +1771,11 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="88ac-d55d-67e7-0b13" name="Ulrik the Slayer" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <constraints>
-        <constraint field="selections" scope="roster" value="-1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7ecd-528a-2aaf-1b0f" type="max"/>
-      </constraints>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
       </costs>
@@ -1800,11 +1791,11 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="cdba-f20d-c419-beee" name="Murderfang" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <constraints>
-        <constraint field="selections" scope="roster" value="-1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ed97-027b-a2c4-800b" type="max"/>
-      </constraints>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="190.0"/>
       </costs>
@@ -1820,6 +1811,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="f9ad-01ff-d7d2-df0f" name="Wolf Guard Battle Leader in Terminator Armour" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
@@ -1830,9 +1824,6 @@
       </costs>
     </selectionEntry>
     <selectionEntry id="1f99-a569-5013-7f45" name="Ragnar Blackmane" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
-      <constraints>
-        <constraint field="selections" scope="roster" value="-1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="dda5-ce26-2483-3333" type="max"/>
-      </constraints>
       <costs>
         <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="105.0"/>
       </costs>
@@ -1880,6 +1871,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="8e48-32f7-5c85-9453" name="Wolf Lord on Thunderwolf" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>
@@ -1900,6 +1894,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="60ed-9228-f14d-1094" name="Wulfen" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
       <selectionEntries>
@@ -1912,6 +1909,9 @@
           </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="7d87-ed9e-6832-f7d9" name="Iron Priest" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
       <entryLinks>

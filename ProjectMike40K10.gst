@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="a8f6-dd2e-ea3b-1511" name="ProjectMike40K10" revision="1" battleScribeVersion="2.03" authorName="Mike Oke" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="a8f6-dd2e-ea3b-1511" name="ProjectMike40K10" revision="2" battleScribeVersion="2.03" authorName="Mike Oke" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <publications>
     <publication id="c1ac-4d57-086a-f374" name="Core Rules"/>
     <publication id="0084-8cf6-b5f0-fa82" name="Tyranid Index Cards"/>
